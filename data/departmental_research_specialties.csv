@@ -1,0 +1,2029 @@
+,School name,Department,Departmental research,Research type
+0,Cornell University,Physics,Accelerator,experimental
+1,Illinois Institute of Technology,Physics,Accelerator,experimental
+2,Lehigh University,Physics,Accelerator,experimental
+3,Old Dominion University,Physics,Accelerator,experimental
+4,University of Michigan,Applied Physics,Accelerator,experimental
+5,"University of Tennessee, Knoxville",Physics & Astronomy,Accelerator,experimental
+6,University of Michigan,Applied Physics,Accelerator,theoretical
+7,Purdue Universty,Physics,Accelerator Mass Spectrometry,experimental
+8,"State University of New York (SUNY), Stony Brook",Physics & Astronomy,Accelerator Physics,experimental
+9,University of Chicago,Physics,Accelerator Physics,experimental
+10,"State University of New York (SUNY), Stony Brook",Physics & Astronomy,Accelerator Physics,theoretical
+11,Bowling Green State University,Physics & Astronomy,Acoustics,experimental
+12,San Jose State University,Physics,Acoustics,experimental
+13,University of Alaska Fairbanks,Physics,Acoustics,experimental
+14,University of Michigan,Applied Physics,Acoustics,experimental
+15,University of Mississippi,Physics & Astronomy,Acoustics,experimental
+16,University of Vermont,Physics,Acoustics,experimental
+17,Bowling Green State University,Physics & Astronomy,Acoustics,theoretical
+18,Eastern Michigan University,Physics and Astronomy,Acoustics,theoretical
+19,Harvard University,Physics,Acoustics,theoretical
+20,"State University of New York (SUNY), Univ. at Buffalo",Physics,Acoustics,theoretical
+21,"University of California, San Diego",Physics,Acoustics,theoretical
+22,University of Michigan,Applied Physics,Acoustics,theoretical
+23,Virginia Commonwealth University,Physics,Acoustics,theoretical
+24,"Texas State University, San Marcos",Physics,Adaptive Optics,experimental
+25,The University of North Carolina at Charlotte,Physics and Optical Science,Adaptive optics,experimental
+26,The University of North Carolina at Charlotte,Physics and Optical Science,Adaptive Optics,theoretical
+27,University of California Merced,Physics,Affiliated faculty in other departments,experimental
+28,"University of Maryland, Baltimore County",Atmospheric Physics Graduate Program,air quality,theoretical
+29,University of Michigan,Applied Physics,Applied Mathematics,experimental
+30,Columbia University,Department of Applied Physics and Applied Mathematics,Applied Mathematics,theoretical
+31,Harvard University,Physics,Applied Mathematics,theoretical
+32,University of Michigan,Applied Physics,Applied Mathematics,theoretical
+33,Colorado School of Mines,Physics,Applied Optics,experimental
+34,University of New Hampshire,Physics,Applied Optics,experimental
+35,"California State University, Long Beach",Physics & Astronomy,Applied Physics,experimental
+36,Harvard University,Physics,Applied Physics,experimental
+37,Illinois Institute of Technology,Physics,Applied Physics,experimental
+38,New Mexico State University,Physics,Applied Physics,experimental
+39,Oakland University,Physics,Applied Physics,experimental
+40,Purdue Universty,Physics,Applied Physics,experimental
+41,San Francisco State University,Physics & Astronomy,Applied Physics,experimental
+42,San Jose State University,Physics,Applied Physics,experimental
+43,"State University of New York (SUNY), Binghamton","Physics, Applied Physics & Astronomy",Applied Physics,experimental
+44,"State University of New York (SUNY), Univ. at Buffalo",Physics,Applied Physics,experimental
+45,"University of Colorado, Boulder",Physics,Applied Physics,experimental
+46,"University of Massachusetts, Lowell",Physics & Applied Physics,Applied Physics,experimental
+47,"University of Massachusetts, Lowell",Physics & Applied Physics,Applied Physics,experimental
+48,"University of Massachusetts, Lowell",Physics & Applied Physics,Applied Physics,experimental
+49,University of Michigan,Applied Physics,Applied Physics,experimental
+50,University of South Florida,Physics,Applied Physics,experimental
+51,West Virginia University,Physics,Applied Physics,experimental
+52,Harvard University,Physics,Applied Physics,theoretical
+53,Oakland University,Physics,Applied Physics,theoretical
+54,Seton Hall University,Physics,Applied Physics,theoretical
+55,Texas Tech University,Physics,Applied Physics,theoretical
+56,University of Michigan,Applied Physics,Applied Physics,theoretical
+57,University of South Florida,Physics,Applied Physics,theoretical
+58,West Virginia University,Physics,Applied Physics,theoretical
+59,University of Kansas,Physics & Astronomy,Astrobiophysics,experimental
+60,Clark University,Physics,Astrochemistry,experimental
+61,Appalachian State University,Physics and Astronomy,Astronomy,experimental
+62,Bowling Green State University,Physics & Astronomy,Astronomy,experimental
+63,Clarkson University,Physics,Astronomy,experimental
+64,Clemson University,Physics & Astronomy,Astronomy,experimental
+65,DePaul University,Physics,Astronomy,experimental
+66,Florida International University,Physics,Astronomy,experimental
+67,Georgia State University,Physics & Astronomy,Astronomy,experimental
+68,Iowa State University,Physics and Astronomy,Astronomy,experimental
+69,Lehigh University,Physics,Astronomy,experimental
+70,Missouri University of Science & Technology,Physics,Astronomy,experimental
+71,New Mexico State University,Astronomy,Astronomy,experimental
+72,"North Carolina State University, Raleigh",Physics,Astronomy,experimental
+73,Northern Arizona University,Physics,Astronomy,experimental
+74,San Francisco State University,Physics & Astronomy,Astronomy,experimental
+75,Southern Connecticut State University,Physics,Astronomy,experimental
+76,"State University of New York (SUNY), Stony Brook",Physics & Astronomy,Astronomy,experimental
+77,Texas Christian University,Physics and Astronomy,Astronomy,experimental
+78,"University of Alabama, Tuscaloosa",Physics & Astronomy,Astronomy,experimental
+79,"University of California, Riverside",Physics & Astronomy,Astronomy,experimental
+80,"University of California, San Diego",Physics,Astronomy,experimental
+81,University of Cincinnati,Physics,Astronomy,experimental
+82,University of Denver,Physics,Astronomy,experimental
+83,University of Iowa,Physics & Astronomy,Astronomy,experimental
+84,University of Kansas,Physics & Astronomy,Astronomy,experimental
+85,"University of Massachusetts, Lowell",Physics & Applied Physics,Astronomy,experimental
+86,University of Michigan,Applied Physics,Astronomy,experimental
+87,"University of Missouri, Columbia",Physics & Astronomy,Astronomy,experimental
+88,"University of Nevada, Las Vegas",Physics,Astronomy,experimental
+89,"University of Nevada, Reno",Physics,Astronomy,experimental
+90,University of Oklahoma,Physics & Astronomy,Astronomy,experimental
+91,University of South Carolina,Physics & Astronomy,Astronomy,experimental
+92,University of South Florida,Physics,Astronomy,experimental
+93,University of Utah,Physics,Astronomy,experimental
+94,Vanderbilt University,Physics & Astronomy,Astronomy,experimental
+95,Western Michigan University,Physics,Astronomy,experimental
+96,Iowa State University,Physics and Astronomy,Astronomy,theoretical
+97,Michigan Technological University,Physics,Astronomy,theoretical
+98,Missouri University of Science & Technology,Physics,Astronomy,theoretical
+99,"Montana State University, Bozeman",Physics,Astronomy,theoretical
+100,"University of Nevada, Las Vegas",Physics,Astronomy,theoretical
+101,University of Oklahoma,Physics & Astronomy,Astronomy,theoretical
+102,University of Utah,Physics,Astronomy,theoretical
+103,Vanderbilt University,Physics & Astronomy,Astronomy,theoretical
+104,Western Michigan University,Physics,Astronomy,theoretical
+105,University of Maine,Physics and Astronomy,Astronomy (Numerical and Observational),experimental
+106,University of Maine,Physics and Astronomy,Astronomy Education,experimental
+107,University of South Florida,Physics,"Astronomy, Astrophysics, Planetary Science",experimental
+108,Boston University,Physics,Astrophysics,experimental
+109,Carnegie Mellon University,Physics,Astrophysics,experimental
+110,Central Michigan University,Physics,Astrophysics,experimental
+111,Columbia University,Physics,Astrophysics,experimental
+112,Creighton University,Physics,Astrophysics,experimental
+113,Drexel University,Physics,Astrophysics,experimental
+114,Florida State University,Physics,Astrophysics,experimental
+115,George Washington University,Physics,Astrophysics,experimental
+116,Georgia Institute of Technology,Physics,Astrophysics,experimental
+117,Harvard University,Physics,Astrophysics,experimental
+118,"Indiana University, Bloomington",Physics,Astrophysics,experimental
+119,Iowa State University,Physics and Astronomy,Astrophysics,experimental
+120,Massachusetts Institute of Technology,Physics,Astrophysics,experimental
+121,Michigan Technological University,Physics,Astrophysics,experimental
+122,New Mexico Institute of Mining and Technology,Physics,Astrophysics,experimental
+123,Northern Arizona University,Physics,Astrophysics,experimental
+124,Northwestern University,Physics & Astronomy,Astrophysics,experimental
+125,Ohio University,Physics and Astronomy,Astrophysics,experimental
+126,Oklahoma State University,Physics,Astrophysics,experimental
+127,Oregon State University,Physics,Astrophysics,experimental
+128,Pennsylvania State University,Physics,Astrophysics,experimental
+129,Purdue Universty,Physics,Astrophysics,experimental
+130,Rensselaer Polytechnic Institute,"Physics, Applied Physics, Astronomy",Astrophysics,experimental
+131,Rice University,Physics & Astronomy,Astrophysics,experimental
+132,"Rutgers University, New Brunswick",Physics & Astronomy,Astrophysics,experimental
+133,San Jose State University,Physics,Astrophysics,experimental
+134,Texas Christian University,Physics and Astronomy,Astrophysics,experimental
+135,Texas Tech University,Physics,Astrophysics,experimental
+136,University of Alabama at Birmingham,Physics,Astrophysics,experimental
+137,"University of California, Irvine",Physics,Astrophysics,experimental
+138,"University of California, Santa Barbara",Physics,Astrophysics,experimental
+139,University of Chicago,Astronomy & Astrophysics,Astrophysics,experimental
+140,University of Chicago,Physics,Astrophysics,experimental
+141,"University of Colorado, Boulder",Physics,Astrophysics,experimental
+142,University of Delaware,Physics & Astronomy,Astrophysics,experimental
+143,University of Denver,Physics,Astrophysics,experimental
+144,"University of Illinois, Urbana-Champaign",Physics,Astrophysics,experimental
+145,University of Kansas,Physics & Astronomy,Astrophysics,experimental
+146,University of Maine,Physics and Astronomy,Astrophysics,experimental
+147,"University of Maryland, Baltimore County",Physics Graduate Program,Astrophysics,experimental
+148,University of Michigan,Applied Physics,Astrophysics,experimental
+149,University of Minnesota,Physics,Astrophysics,experimental
+150,"University of Minnesota, Duluth",Physics,Astrophysics,experimental
+151,"University of North Carolina, Chapel Hill",Physics & Astronomy,Astrophysics,experimental
+152,University of Notre Dame,Physics,Astrophysics,experimental
+153,University of Oregon,Physics,Astrophysics,experimental
+154,University of Pennsylvania,Physics,Astrophysics,experimental
+155,University of Pittsburgh,Physics & Astronomy,Astrophysics,experimental
+156,University of Rochester,Physics & Astronomy,Astrophysics,experimental
+157,University of South Carolina,Physics & Astronomy,Astrophysics,experimental
+158,University of Southern California,Physics & Astronomy,Astrophysics,experimental
+159,"University of Texas, Arlington",Physics,Astrophysics,experimental
+160,University of Utah,Physics,Astrophysics,experimental
+161,University of Vermont,Physics,Astrophysics,experimental
+162,University of Washington,Physics,Astrophysics,experimental
+163,University of Wyoming,Physics & Astronomy,Astrophysics,experimental
+164,Virginia Tech,Physics,Astrophysics,experimental
+165,Washington University in St. Louis,Physics,Astrophysics,experimental
+166,Wayne State University,Physics and Astronomy,Astrophysics,experimental
+167,West Virginia University,Physics,Astrophysics,experimental
+168,"California State University, Long Beach",Physics & Astronomy,Astrophysics,theoretical
+169,Carnegie Mellon University,Physics,Astrophysics,theoretical
+170,Clarkson University,Physics,Astrophysics,theoretical
+171,Clemson University,Physics & Astronomy,Astrophysics,theoretical
+172,Columbia University,Physics,Astrophysics,theoretical
+173,Cornell University,Physics,Astrophysics,theoretical
+174,Creighton University,Physics,Astrophysics,theoretical
+175,DePaul University,Physics,Astrophysics,theoretical
+176,Drexel University,Physics,Astrophysics,theoretical
+177,Florida Atlantic University,Physics,Astrophysics,theoretical
+178,Florida State University,Physics,Astrophysics,theoretical
+179,George Mason University,Physical Sciences,Astrophysics,theoretical
+180,George Washington University,Physics,Astrophysics,theoretical
+181,Georgia Institute of Technology,Physics,Astrophysics,theoretical
+182,Harvard University,Physics,Astrophysics,theoretical
+183,"Indiana University, Bloomington",Physics,Astrophysics,theoretical
+184,Kent State University,Department of Physics,Astrophysics,theoretical
+185,Lehigh University,Physics,Astrophysics,theoretical
+186,Massachusetts Institute of Technology,Physics,Astrophysics,theoretical
+187,Miami University,Physics,Astrophysics,theoretical
+188,Michigan Technological University,Physics,Astrophysics,theoretical
+189,"Montana State University, Bozeman",Physics,Astrophysics,theoretical
+190,New Mexico Institute of Mining and Technology,Physics,Astrophysics,theoretical
+191,New Mexico State University,Astronomy,Astrophysics,theoretical
+192,Northwestern University,Physics & Astronomy,Astrophysics,theoretical
+193,Oakland University,Physics,Astrophysics,theoretical
+194,Ohio University,Physics and Astronomy,Astrophysics,theoretical
+195,Pennsylvania State University,Physics,Astrophysics,theoretical
+196,Purdue Universty,Physics,Astrophysics,theoretical
+197,Rensselaer Polytechnic Institute,"Physics, Applied Physics, Astronomy",Astrophysics,theoretical
+198,Rice University,Physics & Astronomy,Astrophysics,theoretical
+199,"Rutgers University, New Brunswick",Physics & Astronomy,Astrophysics,theoretical
+200,San Diego State University,Physics,Astrophysics,theoretical
+201,San Francisco State University,Physics & Astronomy,Astrophysics,theoretical
+202,"State University of New York (SUNY), Stony Brook",Physics & Astronomy,Astrophysics,theoretical
+203,Texas Tech University,Physics,Astrophysics,theoretical
+204,University of Alabama at Birmingham,Physics,Astrophysics,theoretical
+205,"University of Alabama, Tuscaloosa",Physics & Astronomy,Astrophysics,theoretical
+206,University of Arizona,Physics,Astrophysics,theoretical
+207,"University of California, Irvine",Physics,Astrophysics,theoretical
+208,"University of California, San Diego",Physics,Astrophysics,theoretical
+209,"University of California, Santa Barbara",Physics,Astrophysics,theoretical
+210,University of Chicago,Astronomy & Astrophysics,Astrophysics,theoretical
+211,University of Cincinnati,Physics,Astrophysics,theoretical
+212,"University of Colorado, Boulder",Physics,Astrophysics,theoretical
+213,University of Connecticut,Physics,Astrophysics,theoretical
+214,University of Delaware,Physics & Astronomy,Astrophysics,theoretical
+215,University of Denver,Physics,Astrophysics,theoretical
+216,University of Florida,Physics,Astrophysics,theoretical
+217,"University of Illinois, Urbana-Champaign",Physics,Astrophysics,theoretical
+218,University of Iowa,Physics & Astronomy,Astrophysics,theoretical
+219,University of Kansas,Physics & Astronomy,Astrophysics,theoretical
+220,"University of Maryland, Baltimore County",Physics Graduate Program,Astrophysics,theoretical
+221,"University of Massachusetts, Dartmouth",Physics,Astrophysics,theoretical
+222,University of Michigan,Applied Physics,Astrophysics,theoretical
+223,University of Minnesota,Physics,Astrophysics,theoretical
+224,"University of Nevada, Las Vegas",Physics,Astrophysics,theoretical
+225,"University of North Carolina, Chapel Hill",Physics & Astronomy,Astrophysics,theoretical
+226,University of Notre Dame,Physics,Astrophysics,theoretical
+227,University of Oregon,Physics,Astrophysics,theoretical
+228,University of Pennsylvania,Physics,Astrophysics,theoretical
+229,University of Pittsburgh,Physics & Astronomy,Astrophysics,theoretical
+230,University of Rochester,Physics & Astronomy,Astrophysics,theoretical
+231,University of Southern California,Physics & Astronomy,Astrophysics,theoretical
+232,"University of Texas, Arlington",Physics,Astrophysics,theoretical
+233,University of Utah,Physics,Astrophysics,theoretical
+234,University of Virginia,Physics,Astrophysics,theoretical
+235,University of Washington,Physics,Astrophysics,theoretical
+236,"University of Wisconsin, Milwaukee",Physics,Astrophysics,theoretical
+237,University of Wyoming,Physics & Astronomy,Astrophysics,theoretical
+238,Washington University in St. Louis,Physics,Astrophysics,theoretical
+239,West Virginia University,Physics,Astrophysics,theoretical
+240,University of Chicago,Physics,Astrophysics & Cosmology,theoretical
+241,Duke University,Physics,Astrophysics and Cosmology,experimental
+242,"University of California, Riverside",Physics & Astronomy,Astrophysics and cosmology,theoretical
+243,University of Maine,Physics and Astronomy,"Astrophysics, Astronomy, and General Relativity",theoretical
+244,Alabama A&M University,Physics,"Atmosphere, Space Physics, Cosmic Rays",experimental
+245,Baylor University,Physics,"Atmosphere, Space Physics, Cosmic Rays",experimental
+246,Clemson University,Physics & Astronomy,"Atmosphere, Space Physics, Cosmic Rays",experimental
+247,Eastern Michigan University,Physics and Astronomy,"Atmosphere, Space Physics, Cosmic Rays",experimental
+248,"Montana State University, Bozeman",Physics,"Atmosphere, Space Physics, Cosmic Rays",experimental
+249,Portland State University,Physics,"Atmosphere, Space Physics, Cosmic Rays",experimental
+250,Rice University,Physics & Astronomy,"Atmosphere, Space Physics, Cosmic Rays",experimental
+251,Stevens Institute of Technology,Physics And Engineering Physics,"Atmosphere, Space Physics, Cosmic Rays",experimental
+252,"University of California, Berkeley",Physics,"Atmosphere, Space Physics, Cosmic Rays",experimental
+253,"University of Colorado, Boulder",Physics,"Atmosphere, Space Physics, Cosmic Rays",experimental
+254,University of Delaware,Physics & Astronomy,"Atmosphere, Space Physics, Cosmic Rays",experimental
+255,University of Denver,Physics,"Atmosphere, Space Physics, Cosmic Rays",experimental
+256,University of Iowa,Physics & Astronomy,"Atmosphere, Space Physics, Cosmic Rays",experimental
+257,"University of Massachusetts, Lowell",Physics & Applied Physics,"Atmosphere, Space Physics, Cosmic Rays",experimental
+258,University of Michigan,Applied Physics,"Atmosphere, Space Physics, Cosmic Rays",experimental
+259,University of Minnesota,Physics,"Atmosphere, Space Physics, Cosmic Rays",experimental
+260,University of Southern California,Physics & Astronomy,"Atmosphere, Space Physics, Cosmic Rays",experimental
+261,Utah State University,Physics,"Atmosphere, Space Physics, Cosmic Rays",experimental
+262,Washington University in St. Louis,Physics,"Atmosphere, Space Physics, Cosmic Rays",experimental
+263,Alabama A&M University,Physics,"Atmosphere, Space Physics, Cosmic Rays",theoretical
+264,Baylor University,Physics,"Atmosphere, Space Physics, Cosmic Rays",theoretical
+265,Clemson University,Physics & Astronomy,"Atmosphere, Space Physics, Cosmic Rays",theoretical
+266,Columbia University,Department of Applied Physics and Applied Mathematics,"Atmosphere, Space Physics, Cosmic Rays",theoretical
+267,Eastern Michigan University,Physics and Astronomy,"Atmosphere, Space Physics, Cosmic Rays",theoretical
+268,Rice University,Physics & Astronomy,"Atmosphere, Space Physics, Cosmic Rays",theoretical
+269,"University of Colorado, Boulder",Physics,"Atmosphere, Space Physics, Cosmic Rays",theoretical
+270,University of Delaware,Physics & Astronomy,"Atmosphere, Space Physics, Cosmic Rays",theoretical
+271,University of Iowa,Physics & Astronomy,"Atmosphere, Space Physics, Cosmic Rays",theoretical
+272,University of Kansas,Physics & Astronomy,"Atmosphere, Space Physics, Cosmic Rays",theoretical
+273,University of Michigan,Applied Physics,"Atmosphere, Space Physics, Cosmic Rays",theoretical
+274,University of Minnesota,Physics,"Atmosphere, Space Physics, Cosmic Rays",theoretical
+275,Utah State University,Physics,"Atmosphere, Space Physics, Cosmic Rays",theoretical
+276,"University of Maryland, College Park",Astronomy,Atmospheric & Space Physics,theoretical
+277,Appalachian State University,Physics and Astronomy,Atmospheric and Environmental Physics,experimental
+278,University of New Hampshire,Physics,Atmospheric Electricity,experimental
+279,University of New Hampshire,Physics,Atmospheric Electricity,theoretical
+280,University of Mississippi,Physics & Astronomy,"Atmospheric electricity, thunderstorm electrification",experimental
+281,Michigan Technological University,Physics,Atmospheric Physics,experimental
+282,New Mexico Institute of Mining and Technology,Physics,Atmospheric Physics,experimental
+283,"University of Maryland, Baltimore County",Atmospheric Physics Graduate Program,Atmospheric Physics,experimental
+284,"University of Maryland, Baltimore County",Physics Graduate Program,Atmospheric Physics,experimental
+285,"University of Nevada, Reno",Physics,Atmospheric Physics,experimental
+286,Michigan Technological University,Physics,Atmospheric Physics,theoretical
+287,New Mexico Institute of Mining and Technology,Physics,Atmospheric Physics,theoretical
+288,"University of Maryland, Baltimore County",Atmospheric Physics Graduate Program,Atmospheric Physics,theoretical
+289,"University of Maryland, Baltimore County",Physics Graduate Program,Atmospheric Physics,theoretical
+290,"State University of New York (SUNY), Stony Brook",Physics & Astronomy,Atomic and Molecular Physics,theoretical
+291,Princeton University,Physics,Atomic Physics,experimental
+292,"University of Wisconsin, Madison",Physics,"Atomic, Molecular and Optical Theory",theoretical
+293,Appalachian State University,Physics and Astronomy,"Atomic, Molecular, & Optical Physics",experimental
+294,Auburn University,Physics,"Atomic, Molecular, & Optical Physics",experimental
+295,Baylor University,Physics,"Atomic, Molecular, & Optical Physics",experimental
+296,Bryn Mawr College,Physics,"Atomic, Molecular, & Optical Physics",experimental
+297,Clemson University,Physics & Astronomy,"Atomic, Molecular, & Optical Physics",experimental
+298,College of William and Mary,Physics,"Atomic, Molecular, & Optical Physics",experimental
+299,Colorado State University,Physics,"Atomic, Molecular, & Optical Physics",experimental
+300,Columbia University,Physics,"Atomic, Molecular, & Optical Physics",experimental
+301,Creighton University,Physics,"Atomic, Molecular, & Optical Physics",experimental
+302,Creighton University,Physics,"Atomic, Molecular, & Optical Physics",experimental
+303,Duke University,Physics,"Atomic, Molecular, & Optical Physics",experimental
+304,Eastern Michigan University,Physics and Astronomy,"Atomic, Molecular, & Optical Physics",experimental
+305,Florida International University,Physics,"Atomic, Molecular, & Optical Physics",experimental
+306,Florida State University,Physics,"Atomic, Molecular, & Optical Physics",experimental
+307,George Mason University,Physical Sciences,"Atomic, Molecular, & Optical Physics",experimental
+308,Georgia Institute of Technology,Physics,"Atomic, Molecular, & Optical Physics",experimental
+309,Harvard University,Physics,"Atomic, Molecular, & Optical Physics",experimental
+310,"Indiana University, Bloomington",Physics,"Atomic, Molecular, & Optical Physics",experimental
+311,Kansas State University,Physics,"Atomic, Molecular, & Optical Physics",experimental
+312,Lehigh University,Physics,"Atomic, Molecular, & Optical Physics",experimental
+313,Massachusetts Institute of Technology,Physics,"Atomic, Molecular, & Optical Physics",experimental
+314,Miami University,Physics,"Atomic, Molecular, & Optical Physics",experimental
+315,Missouri University of Science & Technology,Physics,"Atomic, Molecular, & Optical Physics",experimental
+316,"Montana State University, Bozeman",Physics,"Atomic, Molecular, & Optical Physics",experimental
+317,New Jersey Institute of Technology,Physics,"Atomic, Molecular, & Optical Physics",experimental
+318,New Mexico State University,Physics,"Atomic, Molecular, & Optical Physics",experimental
+319,"North Carolina State University, Raleigh",Physics,"Atomic, Molecular, & Optical Physics",experimental
+320,Northwestern University,Physics & Astronomy,"Atomic, Molecular, & Optical Physics",experimental
+321,Ohio State University,Physics,"Atomic, Molecular, & Optical Physics",experimental
+322,Oklahoma State University,Physics,"Atomic, Molecular, & Optical Physics",experimental
+323,Old Dominion University,Physics,"Atomic, Molecular, & Optical Physics",experimental
+324,Oregon State University,Physics,"Atomic, Molecular, & Optical Physics",experimental
+325,Pennsylvania State University,Physics,"Atomic, Molecular, & Optical Physics",experimental
+326,Portland State University,Physics,"Atomic, Molecular, & Optical Physics",experimental
+327,Purdue Universty,Physics,"Atomic, Molecular, & Optical Physics",experimental
+328,Rice University,Physics & Astronomy,"Atomic, Molecular, & Optical Physics",experimental
+329,Seton Hall University,Physics,"Atomic, Molecular, & Optical Physics",experimental
+330,Stanford University,Physics,"Atomic, Molecular, & Optical Physics",experimental
+331,"State University of New York (SUNY), Stony Brook",Physics & Astronomy,"Atomic, Molecular, & Optical Physics",experimental
+332,"State University of New York (SUNY), Univ. at Buffalo",Physics,"Atomic, Molecular, & Optical Physics",experimental
+333,Texas Christian University,Physics and Astronomy,"Atomic, Molecular, & Optical Physics",experimental
+334,University of Arizona,Physics,"Atomic, Molecular, & Optical Physics",experimental
+335,University of California Merced,Physics,"Atomic, Molecular, & Optical Physics",experimental
+336,"University of California, Berkeley",Physics,"Atomic, Molecular, & Optical Physics",experimental
+337,"University of California, Riverside",Physics & Astronomy,"Atomic, Molecular, & Optical Physics",experimental
+338,"University of California, Riverside",Physics & Astronomy,"Atomic, Molecular, & Optical Physics",experimental
+339,"University of California, San Diego",Physics,"Atomic, Molecular, & Optical Physics",experimental
+340,"University of California, Santa Barbara",Physics,"Atomic, Molecular, & Optical Physics",experimental
+341,University of Central Florida,Physics,"Atomic, Molecular, & Optical Physics",experimental
+342,University of Chicago,Physics,"Atomic, Molecular, & Optical Physics",experimental
+343,"University of Colorado, Boulder",Physics,"Atomic, Molecular, & Optical Physics",experimental
+344,University of Connecticut,Physics,"Atomic, Molecular, & Optical Physics",experimental
+345,University of Delaware,Physics & Astronomy,"Atomic, Molecular, & Optical Physics",experimental
+346,"University of Illinois, Chicago",Physics,"Atomic, Molecular, & Optical Physics",experimental
+347,"University of Illinois, Urbana-Champaign",Physics,"Atomic, Molecular, & Optical Physics",experimental
+348,University of Michigan,Applied Physics,"Atomic, Molecular, & Optical Physics",experimental
+349,"University of Nebraska, Lincoln",Physics & Astronomy,"Atomic, Molecular, & Optical Physics",experimental
+350,"University of Nebraska, Lincoln",Physics & Astronomy,"Atomic, Molecular, & Optical Physics",experimental
+351,"University of Nebraska, Lincoln",Physics & Astronomy,"Atomic, Molecular, & Optical Physics",experimental
+352,"University of Nebraska, Lincoln",Physics & Astronomy,"Atomic, Molecular, & Optical Physics",experimental
+353,"University of Nebraska, Lincoln",Physics & Astronomy,"Atomic, Molecular, & Optical Physics",experimental
+354,"University of Nebraska, Lincoln",Physics & Astronomy,"Atomic, Molecular, & Optical Physics",experimental
+355,"University of Nevada, Las Vegas",Physics,"Atomic, Molecular, & Optical Physics",experimental
+356,"University of Nevada, Reno",Physics,"Atomic, Molecular, & Optical Physics",experimental
+357,University of Notre Dame,Physics,"Atomic, Molecular, & Optical Physics",experimental
+358,University of Oklahoma,Physics & Astronomy,"Atomic, Molecular, & Optical Physics",experimental
+359,University of South Florida,Physics,"Atomic, Molecular, & Optical Physics",experimental
+360,University of Texas at Austin,Physics,"Atomic, Molecular, & Optical Physics",experimental
+361,University of Virginia,Physics,"Atomic, Molecular, & Optical Physics",experimental
+362,University of Washington,Physics,"Atomic, Molecular, & Optical Physics",experimental
+363,Vanderbilt University,Physics & Astronomy,"Atomic, Molecular, & Optical Physics",experimental
+364,Wake Forest University,Physics,"Atomic, Molecular, & Optical Physics",experimental
+365,Western Michigan University,Physics,"Atomic, Molecular, & Optical Physics",experimental
+366,Auburn University,Physics,"Atomic, Molecular, & Optical Physics",theoretical
+367,Clark University,Physics,"Atomic, Molecular, & Optical Physics",theoretical
+368,Cornell University,Physics,"Atomic, Molecular, & Optical Physics",theoretical
+369,Georgetown University,Physics,"Atomic, Molecular, & Optical Physics",theoretical
+370,Georgia Institute of Technology,Physics,"Atomic, Molecular, & Optical Physics",theoretical
+371,Georgia State University,Physics & Astronomy,"Atomic, Molecular, & Optical Physics",theoretical
+372,Harvard University,Physics,"Atomic, Molecular, & Optical Physics",theoretical
+373,Kansas State University,Physics,"Atomic, Molecular, & Optical Physics",theoretical
+374,Lehigh University,Physics,"Atomic, Molecular, & Optical Physics",theoretical
+375,Massachusetts Institute of Technology,Physics,"Atomic, Molecular, & Optical Physics",theoretical
+376,Missouri University of Science & Technology,Physics,"Atomic, Molecular, & Optical Physics",theoretical
+377,Oakland University,Physics,"Atomic, Molecular, & Optical Physics",theoretical
+378,Oklahoma State University,Physics,"Atomic, Molecular, & Optical Physics",theoretical
+379,Old Dominion University,Physics,"Atomic, Molecular, & Optical Physics",theoretical
+380,Pennsylvania State University,Physics,"Atomic, Molecular, & Optical Physics",theoretical
+381,Portland State University,Physics,"Atomic, Molecular, & Optical Physics",theoretical
+382,Purdue Universty,Physics,"Atomic, Molecular, & Optical Physics",theoretical
+383,Rice University,Physics & Astronomy,"Atomic, Molecular, & Optical Physics",theoretical
+384,Texas Tech University,Physics,"Atomic, Molecular, & Optical Physics",theoretical
+385,University of Arizona,Physics,"Atomic, Molecular, & Optical Physics",theoretical
+386,University of California Merced,Physics,"Atomic, Molecular, & Optical Physics",theoretical
+387,"University of California, Berkeley",Physics,"Atomic, Molecular, & Optical Physics",theoretical
+388,University of Central Florida,Physics,"Atomic, Molecular, & Optical Physics",theoretical
+389,University of Chicago,Physics,"Atomic, Molecular, & Optical Physics",theoretical
+390,"University of Colorado, Boulder",Physics,"Atomic, Molecular, & Optical Physics",theoretical
+391,University of Connecticut,Physics,"Atomic, Molecular, & Optical Physics",theoretical
+392,University of Delaware,Physics & Astronomy,"Atomic, Molecular, & Optical Physics",theoretical
+393,"University of Illinois, Urbana-Champaign",Physics,"Atomic, Molecular, & Optical Physics",theoretical
+394,University of Iowa,Physics & Astronomy,"Atomic, Molecular, & Optical Physics",theoretical
+395,"University of Massachusetts, Dartmouth",Physics,"Atomic, Molecular, & Optical Physics",theoretical
+396,"University of Nebraska, Lincoln",Physics & Astronomy,"Atomic, Molecular, & Optical Physics",theoretical
+397,"University of Nebraska, Lincoln",Physics & Astronomy,"Atomic, Molecular, & Optical Physics",theoretical
+398,"University of Nebraska, Lincoln",Physics & Astronomy,"Atomic, Molecular, & Optical Physics",theoretical
+399,"University of Nevada, Las Vegas",Physics,"Atomic, Molecular, & Optical Physics",theoretical
+400,"University of Nevada, Reno",Physics,"Atomic, Molecular, & Optical Physics",theoretical
+401,University of Notre Dame,Physics,"Atomic, Molecular, & Optical Physics",theoretical
+402,University of Oklahoma,Physics & Astronomy,"Atomic, Molecular, & Optical Physics",theoretical
+403,University of Rochester,Physics & Astronomy,"Atomic, Molecular, & Optical Physics",theoretical
+404,University of Southern California,Physics & Astronomy,"Atomic, Molecular, & Optical Physics",theoretical
+405,Virginia Commonwealth University,Physics,"Atomic, Molecular, & Optical Physics",theoretical
+406,Wayne State University,Physics and Astronomy,"Atomic, Molecular, & Optical Physics",theoretical
+407,Western Michigan University,Physics,"Atomic, Molecular, & Optical Physics",theoretical
+408,University of Rochester,Physics & Astronomy,"Atomic, Molecular, & Optlcal Physics",experimental
+409,"University of Wisconsin, Madison",Physics,"Atomic, Molecular, and Optical Experiment",experimental
+410,Michigan Technological University,Physics,"Atomic, Molecular, Optical, and Condensed Matter Physics",experimental
+411,Michigan Technological University,Physics,"Atomic, Molecular, Optical, and Condensed Matter Physics",theoretical
+412,East Carolina University,Physics,Bioaccooustics,experimental
+413,University of Michigan,Applied Physics,Biochemistry,experimental
+414,University of Michigan,Applied Physics,Biochemistry,theoretical
+415,University of Houston,Physics,Biological & Medical Physics,experimental
+416,University of Houston,Physics,Biological & Medical Physics,theoretical
+417,University of Rochester,Physics & Astronomy,Biological and Medical Physics,experimental
+418,"North Carolina State University, Raleigh",Physics,Biological Physics,experimental
+419,Princeton University,Physics,Biological Physics,experimental
+420,"University of Illinois, Urbana-Champaign",Physics,Biological Physics,experimental
+421,Oakland University,Physics,Biological Physics,theoretical
+422,"University of Illinois, Urbana-Champaign",Physics,Biological Physics,theoretical
+423,Arizona State University,Physics & Astronomy,Biological Physics and Biophysics,experimental
+424,Arizona State University,Physics & Astronomy,Biological Physics and Biophysics,theoretical
+425,University of Wisconsin,Medical Physics Program,Biomagnetism,experimental
+426,University of Wisconsin,Medical Physics Program,Biomagnetism,theoretical
+427,Montana Tech of the University of Montana,Materials Science PhD Program,Biomaterials,experimental
+428,East Carolina University,Physics,Biomedical Optics,experimental
+429,Rice University,Smalley-Curl Institute,Biomedical Optics,experimental
+430,The University of North Carolina at Charlotte,Physics and Optical Science,Biomedical Optics,experimental
+431,Rice University,Smalley-Curl Institute,Biomedical Optics,theoretical
+432,The University of North Carolina at Charlotte,Physics and Optical Science,Biomedical Optics,theoretical
+433,Oakland University,Physics,Biomedical Physics,experimental
+434,Boston University,Physics,Biophysics,experimental
+435,Carnegie Mellon University,Physics,Biophysics,experimental
+436,Clark University,Physics,Biophysics,experimental
+437,Clarkson University,Physics,Biophysics,experimental
+438,Clemson University,Physics & Astronomy,Biophysics,experimental
+439,Columbia University,Physics,Biophysics,experimental
+440,Cornell University,Physics,Biophysics,experimental
+441,Creighton University,Physics,Biophysics,experimental
+442,DePaul University,Physics,Biophysics,experimental
+443,Drexel University,Physics,Biophysics,experimental
+444,Duke University,Physics,Biophysics,experimental
+445,Emory University,Physics,Biophysics,experimental
+446,Florida Atlantic University,Physics,Biophysics,experimental
+447,George Mason University,Physical Sciences,Biophysics,experimental
+448,George Washington University,Physics,Biophysics,experimental
+449,Georgetown University,Physics,Biophysics,experimental
+450,Georgia Institute of Technology,Physics,Biophysics,experimental
+451,Georgia State University,Physics & Astronomy,Biophysics,experimental
+452,Harvard University,Physics,Biophysics,experimental
+453,Illinois Institute of Technology,Physics,Biophysics,experimental
+454,Indiana University - Purdue University Indianapolis,Physics,Biophysics,experimental
+455,Indiana University - Purdue University Indianapolis,Physics,Biophysics,experimental
+456,"Indiana University, Bloomington",Physics,Biophysics,experimental
+457,Kent State University,Department of Physics,Biophysics,experimental
+458,Lehigh University,Physics,Biophysics,experimental
+459,Massachusetts Institute of Technology,Physics,Biophysics,experimental
+460,Miami University,Physics,Biophysics,experimental
+461,New Jersey Institute of Technology,Physics,Biophysics,experimental
+462,Northwestern University,Physics & Astronomy,Biophysics,experimental
+463,Oakland University,Physics,Biophysics,experimental
+464,Ohio State University,Physics,Biophysics,experimental
+465,Ohio University,Physics and Astronomy,Biophysics,experimental
+466,Oklahoma State University,Physics,Biophysics,experimental
+467,Oregon State University,Physics,Biophysics,experimental
+468,Pennsylvania State University,Physics,Biophysics,experimental
+469,Portland State University,Physics,Biophysics,experimental
+470,Purdue Universty,Physics,Biophysics,experimental
+471,Rice University,Physics & Astronomy,Biophysics,experimental
+472,"Rutgers University, New Brunswick",Physics & Astronomy,Biophysics,experimental
+473,San Francisco State University,Physics & Astronomy,Biophysics,experimental
+474,San Jose State University,Physics,Biophysics,experimental
+475,Seton Hall University,Physics,Biophysics,experimental
+476,"State University of New York (SUNY), Albany",Physics,Biophysics,experimental
+477,"State University of New York (SUNY), Binghamton","Physics, Applied Physics & Astronomy",Biophysics,experimental
+478,"State University of New York (SUNY), Univ. at Buffalo",Physics,Biophysics,experimental
+479,Texas Christian University,Physics and Astronomy,Biophysics,experimental
+480,Texas Tech University,Physics,Biophysics,experimental
+481,University of Alabama at Birmingham,Physics,Biophysics,experimental
+482,University of Arizona,Physics,Biophysics,experimental
+483,University of California Merced,Physics,Biophysics,experimental
+484,"University of California, Berkeley",Physics,Biophysics,experimental
+485,"University of California, Irvine",Physics,Biophysics,experimental
+486,"University of California, Riverside",Physics & Astronomy,Biophysics,experimental
+487,"University of California, San Diego",Physics,Biophysics,experimental
+488,"University of California, Santa Barbara",Physics,Biophysics,experimental
+489,University of Central Florida,Physics,Biophysics,experimental
+490,University of Chicago,Physics,Biophysics,experimental
+491,"University of Colorado, Boulder",Physics,Biophysics,experimental
+492,"University of Colorado, Colorado Springs",Physics,Biophysics,experimental
+493,University of Denver,Physics,Biophysics,experimental
+494,University of Florida,Physics,Biophysics,experimental
+495,"University of Illinois, Chicago",Physics,Biophysics,experimental
+496,University of Kansas,Physics & Astronomy,Biophysics,experimental
+497,"University of Massachusetts, Amherst",Physics,Biophysics,experimental
+498,University of Michigan,Applied Physics,Biophysics,experimental
+499,University of Minnesota,Physics,Biophysics,experimental
+500,"University of Missouri, Columbia",Physics & Astronomy,Biophysics,experimental
+501,"University of North Carolina, Chapel Hill",Physics & Astronomy,Biophysics,experimental
+502,University of Oregon,Physics,Biophysics,experimental
+503,University of Pennsylvania,Physics,Biophysics,experimental
+504,University of South Florida,Physics,Biophysics,experimental
+505,University of Southern California,Physics & Astronomy,Biophysics,experimental
+506,"University of Tennessee, Knoxville",Physics & Astronomy,Biophysics,experimental
+507,University of Texas at Austin,Physics,Biophysics,experimental
+508,University of Utah,Physics,Biophysics,experimental
+509,University of Vermont,Physics,Biophysics,experimental
+510,University of Washington,Physics,Biophysics,experimental
+511,"University of Wisconsin, Milwaukee",Physics,Biophysics,experimental
+512,Vanderbilt University,Physics & Astronomy,Biophysics,experimental
+513,Virginia Tech,Physics,Biophysics,experimental
+514,Wake Forest University,Physics,Biophysics,experimental
+515,Washington University in St. Louis,Physics,Biophysics,experimental
+516,Wayne State University,Physics and Astronomy,Biophysics,experimental
+517,West Virginia University,Physics,Biophysics,experimental
+518,Carnegie Mellon University,Physics,Biophysics,theoretical
+519,Case Western Reserve University,Physics,Biophysics,theoretical
+520,Clark University,Physics,Biophysics,theoretical
+521,Clarkson University,Physics,Biophysics,theoretical
+522,Clemson University,Physics & Astronomy,Biophysics,theoretical
+523,Cornell University,Physics,Biophysics,theoretical
+524,Creighton University,Physics,Biophysics,theoretical
+525,Drexel University,Physics,Biophysics,theoretical
+526,East Carolina University,Physics,Biophysics,theoretical
+527,Emory University,Physics,Biophysics,theoretical
+528,George Mason University,Physical Sciences,Biophysics,theoretical
+529,George Washington University,Physics,Biophysics,theoretical
+530,Georgetown University,Physics,Biophysics,theoretical
+531,Georgia Institute of Technology,Physics,Biophysics,theoretical
+532,Harvard University,Physics,Biophysics,theoretical
+533,"Indiana University, Bloomington",Physics,Biophysics,theoretical
+534,Kent State University,Department of Physics,Biophysics,theoretical
+535,Lehigh University,Physics,Biophysics,theoretical
+536,Massachusetts Institute of Technology,Physics,Biophysics,theoretical
+537,Northwestern University,Physics & Astronomy,Biophysics,theoretical
+538,Oakland University,Physics,Biophysics,theoretical
+539,Ohio State University,Physics,Biophysics,theoretical
+540,Ohio University,Physics and Astronomy,Biophysics,theoretical
+541,Pennsylvania State University,Physics,Biophysics,theoretical
+542,Purdue Universty,Physics,Biophysics,theoretical
+543,Rice University,Physics & Astronomy,Biophysics,theoretical
+544,"Rutgers University, New Brunswick",Physics & Astronomy,Biophysics,theoretical
+545,"State University of New York (SUNY), Univ. at Buffalo",Physics,Biophysics,theoretical
+546,Texas Tech University,Physics,Biophysics,theoretical
+547,University of Alabama at Birmingham,Physics,Biophysics,theoretical
+548,University of Arizona,Physics,Biophysics,theoretical
+549,University of California Merced,Physics,Biophysics,theoretical
+550,"University of California, Berkeley",Physics,Biophysics,theoretical
+551,"University of California, Irvine",Physics,Biophysics,theoretical
+552,"University of California, Riverside",Physics & Astronomy,Biophysics,theoretical
+553,"University of California, San Diego",Physics,Biophysics,theoretical
+554,"University of California, Santa Barbara",Physics,Biophysics,theoretical
+555,University of Central Florida,Physics,Biophysics,theoretical
+556,University of Chicago,Physics,Biophysics,theoretical
+557,"University of Colorado, Boulder",Physics,Biophysics,theoretical
+558,University of Delaware,Physics & Astronomy,Biophysics,theoretical
+559,University of Denver,Physics,Biophysics,theoretical
+560,"University of Illinois, Chicago",Physics,Biophysics,theoretical
+561,University of Maine,Physics and Astronomy,Biophysics,theoretical
+562,University of Michigan,Applied Physics,Biophysics,theoretical
+563,"University of Missouri, Columbia",Physics & Astronomy,Biophysics,theoretical
+564,University of Notre Dame,Physics,Biophysics,theoretical
+565,University of Oregon,Physics,Biophysics,theoretical
+566,University of South Florida,Physics,Biophysics,theoretical
+567,University of Southern California,Physics & Astronomy,Biophysics,theoretical
+568,"University of Tennessee, Knoxville",Physics & Astronomy,Biophysics,theoretical
+569,University of Vermont,Physics,Biophysics,theoretical
+570,University of Washington,Physics,Biophysics,theoretical
+571,"University of Wisconsin, Milwaukee",Physics,Biophysics,theoretical
+572,Vanderbilt University,Physics & Astronomy,Biophysics,theoretical
+573,Virginia Commonwealth University,Physics,Biophysics,theoretical
+574,Wake Forest University,Physics,Biophysics,theoretical
+575,Washington University in St. Louis,Physics,Biophysics,theoretical
+576,"University of Wisconsin, Madison",Physics,Biophysics Experiment,experimental
+577,University of Maine,Physics and Astronomy,Biophysics of Influenza Virus,experimental
+578,"University of Wisconsin, Madison",Physics,Biophysics Theory,theoretical
+579,Rice University,Smalley-Curl Institute,Carbon Nanotube Fibers,experimental
+580,Rice University,Smalley-Curl Institute,Carbon Nanotube Technology,theoretical
+581,Harvard University,Physics,Chemical Physics,experimental
+582,"Indiana University, Bloomington",Physics,Chemical Physics,experimental
+583,Oklahoma State University,Physics,Chemical Physics,experimental
+584,"University of Colorado, Boulder",Physics,Chemical Physics,experimental
+585,University of Michigan,Applied Physics,Chemical Physics,experimental
+586,"University of Nebraska, Lincoln",Nebraska Center for Materials & Nanoscience,Chemical Physics,experimental
+587,Clarkson University,Physics,Chemical Physics,theoretical
+588,Harvard University,Physics,Chemical Physics,theoretical
+589,Kent State University,Chemical Physics,Chemical Physics,theoretical
+590,Kent State University,Chemical Physics,Chemical Physics,theoretical
+591,Kent State University,Chemical Physics,Chemical Physics,theoretical
+592,Kent State University,Chemical Physics,Chemical Physics,theoretical
+593,University of Central Florida,Physics,Chemical Physics,theoretical
+594,"University of Colorado, Boulder",Physics,Chemical Physics,theoretical
+595,University of Michigan,Applied Physics,Chemical Physics,theoretical
+596,"University of Nebraska, Lincoln",Nebraska Center for Materials & Nanoscience,Chemical Physics,theoretical
+597,University of Utah,Physics,Chemical Physics,theoretical
+598,Virginia Commonwealth University,Physics,Chemical Physics,theoretical
+599,"University of Maryland, Baltimore County",Atmospheric Physics Graduate Program,Climate Change/Global Warming,theoretical
+600,University of Michigan,Applied Physics,Climate/Atmospheric Science,experimental
+601,Portland State University,Physics,Climate/Atmospheric Science,theoretical
+602,University of Michigan,Applied Physics,Climate/Atmospheric Science,theoretical
+603,"University of Tennessee, Knoxville",Physics & Astronomy,Computational astrophysics,theoretical
+604,"University of Maryland, College Park",Astronomy,Computational Astrophysics - Simulations of asteroid evolution,theoretical
+605,"University of Maryland, College Park",Astronomy,Computational Astrophysics - Simulations of cosmological halo evolution,theoretical
+606,"North Carolina State University, Raleigh",Physics,Computational Biophysics,theoretical
+607,"North Carolina State University, Raleigh",Physics,Computational Condensed Matter Physics,theoretical
+608,Central Michigan University,Physics,Computational electronic structure,theoretical
+609,Rice University,Smalley-Curl Institute,Computational Imaging,experimental
+610,Rice University,Smalley-Curl Institute,Computational Imaging,theoretical
+611,Central Michigan University,Physics,Computational materials physics,theoretical
+612,Wayne State University,Physics and Astronomy,Computational Nuclear Physics-Interdisciplinary,theoretical
+613,University of Michigan,Applied Physics,Computational Physics,experimental
+614,Bowling Green State University,Physics & Astronomy,Computational Physics,theoretical
+615,"California State University, Long Beach",Physics & Astronomy,Computational Physics,theoretical
+616,Carnegie Mellon University,Physics,Computational Physics,theoretical
+617,Clark University,Physics,Computational Physics,theoretical
+618,Clemson University,Physics & Astronomy,Computational Physics,theoretical
+619,Cornell University,Physics,Computational Physics,theoretical
+620,DePaul University,Physics,Computational Physics,theoretical
+621,Duke University,Physics,Computational Physics,theoretical
+622,East Carolina University,Physics,Computational Physics,theoretical
+623,Eastern Michigan University,Physics and Astronomy,Computational Physics,theoretical
+624,Emory University,Physics,Computational Physics,theoretical
+625,Georgetown University,Physics,Computational Physics,theoretical
+626,Harvard University,Physics,Computational Physics,theoretical
+627,New Mexico State University,Physics,Computational Physics,theoretical
+628,Portland State University,Physics,Computational Physics,theoretical
+629,San Diego State University,Physics,Computational Physics,theoretical
+630,"State University of New York (SUNY), Albany",Physics,Computational Physics,theoretical
+631,"State University of New York (SUNY), Binghamton","Physics, Applied Physics & Astronomy",Computational Physics,theoretical
+632,"State University of New York (SUNY), Univ. at Buffalo",Physics,Computational Physics,theoretical
+633,"Texas State University, San Marcos",Physics,Computational Physics,theoretical
+634,University of Alabama at Birmingham,Physics,Computational Physics,theoretical
+635,University of Alaska Fairbanks,Physics,Computational Physics,theoretical
+636,University of Central Florida,Physics,Computational Physics,theoretical
+637,University of Cincinnati,Physics,Computational Physics,theoretical
+638,University of Florida,Physics,Computational Physics,theoretical
+639,"University of Illinois, Chicago",Physics,Computational Physics,theoretical
+640,"University of Massachusetts, Dartmouth",Physics,Computational Physics,theoretical
+641,University of Michigan,Applied Physics,Computational Physics,theoretical
+642,University of South Carolina,Physics & Astronomy,Computational Physics,theoretical
+643,University of Southern California,Physics & Astronomy,Computational Physics,theoretical
+644,"University of Texas, Arlington",Physics,Computational Physics,theoretical
+645,Utah State University,Physics,Computational Physics,theoretical
+646,Washington University in St. Louis,Physics,Computational Physics,theoretical
+647,University of Michigan,Applied Physics,Computer Science,experimental
+648,University of Michigan,Applied Physics,Computer Science,theoretical
+649,Kansas State University,Physics,Condensed Matter and Biological Physics,theoretical
+650,Fudan University,Physics,Condensed Matter and Material Physics,experimental
+651,"University of California, Berkeley",Physics,Condensed Matter and Materials Physics,theoretical
+652,Princeton University,Physics,Condensed Matter Experiment,experimental
+653,"University of Wisconsin, Madison",Physics,Condensed Matter Experiment,experimental
+654,Auburn University,Physics,Condensed Matter Physics,experimental
+655,Auburn University,Physics,Condensed Matter Physics,experimental
+656,Baylor University,Physics,Condensed Matter Physics,experimental
+657,Baylor University,Physics,Condensed Matter Physics,experimental
+658,Boston College,Physics,Condensed Matter Physics,experimental
+659,Boston University,Physics,Condensed Matter Physics,experimental
+660,Bryn Mawr College,Physics,Condensed Matter Physics,experimental
+661,"California State University, Long Beach",Physics & Astronomy,Condensed Matter Physics,experimental
+662,Carnegie Mellon University,Physics,Condensed Matter Physics,experimental
+663,Central Michigan University,Physics,Condensed Matter Physics,experimental
+664,Clark University,Physics,Condensed Matter Physics,experimental
+665,Clemson University,Physics & Astronomy,Condensed Matter Physics,experimental
+666,Clemson University,Physics & Astronomy,Condensed Matter Physics,experimental
+667,College of William and Mary,Physics,Condensed Matter Physics,experimental
+668,Colorado School of Mines,Physics,Condensed Matter Physics,experimental
+669,Colorado State University,Physics,Condensed Matter Physics,experimental
+670,Columbia University,Physics,Condensed Matter Physics,experimental
+671,Cornell University,Physics,Condensed Matter Physics,experimental
+672,Creighton University,Physics,Condensed Matter Physics,experimental
+673,Drexel University,Physics,Condensed Matter Physics,experimental
+674,Eastern Michigan University,Physics and Astronomy,Condensed Matter Physics,experimental
+675,Emory University,Physics,Condensed Matter Physics,experimental
+676,Florida Atlantic University,Physics,Condensed Matter Physics,experimental
+677,Florida International University,Physics,Condensed Matter Physics,experimental
+678,Florida State University,Physics,Condensed Matter Physics,experimental
+679,George Mason University,Physical Sciences,Condensed Matter Physics,experimental
+680,Georgia Institute of Technology,Physics,Condensed Matter Physics,experimental
+681,Georgia State University,Physics & Astronomy,Condensed Matter Physics,experimental
+682,Harvard University,Physics,Condensed Matter Physics,experimental
+683,Illinois Institute of Technology,Physics,Condensed Matter Physics,experimental
+684,Indiana University - Purdue University Indianapolis,Physics,Condensed Matter Physics,experimental
+685,Indiana University - Purdue University Indianapolis,Physics,Condensed Matter Physics,experimental
+686,"Indiana University, Bloomington",Physics,Condensed Matter Physics,experimental
+687,Iowa State University,Physics and Astronomy,Condensed Matter Physics,experimental
+688,Iowa State University,Physics and Astronomy,Condensed Matter Physics,experimental
+689,Lehigh University,Physics,Condensed Matter Physics,experimental
+690,Massachusetts Institute of Technology,Physics,Condensed Matter Physics,experimental
+691,Miami University,Physics,Condensed Matter Physics,experimental
+692,Missouri University of Science & Technology,Physics,Condensed Matter Physics,experimental
+693,"Montana State University, Bozeman",Physics,Condensed Matter Physics,experimental
+694,New Mexico State University,Physics,Condensed Matter Physics,experimental
+695,"North Carolina State University, Raleigh",Physics,Condensed Matter Physics,experimental
+696,Northern Illinois University,Physics,Condensed Matter Physics,experimental
+697,Northwestern University,Physics & Astronomy,Condensed Matter Physics,experimental
+698,Oakland University,Physics,Condensed Matter Physics,experimental
+699,Ohio State University,Physics,Condensed Matter Physics,experimental
+700,Ohio University,Physics and Astronomy,Condensed Matter Physics,experimental
+701,Oklahoma State University,Physics,Condensed Matter Physics,experimental
+702,Old Dominion University,Physics,Condensed Matter Physics,experimental
+703,Oregon State University,Physics,Condensed Matter Physics,experimental
+704,Pennsylvania State University,Physics,Condensed Matter Physics,experimental
+705,Portland State University,Physics,Condensed Matter Physics,experimental
+706,Purdue Universty,Physics,Condensed Matter Physics,experimental
+707,Rensselaer Polytechnic Institute,"Physics, Applied Physics, Astronomy",Condensed Matter Physics,experimental
+708,Rice University,Physics & Astronomy,Condensed Matter Physics,experimental
+709,"Rutgers University, New Brunswick",Physics & Astronomy,Condensed Matter Physics,experimental
+710,San Diego State University,Physics,Condensed Matter Physics,experimental
+711,San Francisco State University,Physics & Astronomy,Condensed Matter Physics,experimental
+712,Southern Connecticut State University,Physics,Condensed Matter Physics,experimental
+713,"State University of New York (SUNY), Binghamton","Physics, Applied Physics & Astronomy",Condensed Matter Physics,experimental
+714,"State University of New York (SUNY), Stony Brook",Physics & Astronomy,Condensed Matter Physics,experimental
+715,"State University of New York (SUNY), Univ. at Buffalo",Physics,Condensed Matter Physics,experimental
+716,"Texas State University, San Marcos",Physics,Condensed Matter Physics,experimental
+717,Texas Tech University,Physics,Condensed Matter Physics,experimental
+718,University of Alabama at Birmingham,Physics,Condensed Matter Physics,experimental
+719,"University of Alabama, Tuscaloosa",Physics & Astronomy,Condensed Matter Physics,experimental
+720,University of Alaska Fairbanks,Physics,Condensed Matter Physics,experimental
+721,University of Arizona,Physics,Condensed Matter Physics,experimental
+722,University of California Merced,Physics,Condensed Matter Physics,experimental
+723,"University of California, Berkeley",Physics,Condensed Matter Physics,experimental
+724,"University of California, Irvine",Physics,Condensed Matter Physics,experimental
+725,"University of California, Riverside",Physics & Astronomy,Condensed Matter Physics,experimental
+726,"University of California, San Diego",Physics,Condensed Matter Physics,experimental
+727,"University of California, Santa Barbara",Physics,Condensed Matter Physics,experimental
+728,University of Central Florida,Physics,Condensed Matter Physics,experimental
+729,University of Chicago,Physics,Condensed Matter Physics,experimental
+730,University of Cincinnati,Physics,Condensed Matter Physics,experimental
+731,"University of Colorado, Boulder",Physics,Condensed Matter Physics,experimental
+732,"University of Colorado, Colorado Springs",Physics,Condensed Matter Physics,experimental
+733,University of Connecticut,Physics,Condensed Matter Physics,experimental
+734,University of Delaware,Physics & Astronomy,Condensed Matter Physics,experimental
+735,University of Denver,Physics,Condensed Matter Physics,experimental
+736,University of Florida,Physics,Condensed Matter Physics,experimental
+737,"University of Illinois, Chicago",Physics,Condensed Matter Physics,experimental
+738,"University of Illinois, Urbana-Champaign",Physics,Condensed Matter Physics,experimental
+739,University of Iowa,Physics & Astronomy,Condensed Matter Physics,experimental
+740,University of Kansas,Physics & Astronomy,Condensed Matter Physics,experimental
+741,"University of Maryland, Baltimore County",Physics Graduate Program,Condensed Matter Physics,experimental
+742,University of Michigan,Applied Physics,Condensed Matter Physics,experimental
+743,University of Minnesota,Physics,Condensed Matter Physics,experimental
+744,"University of Minnesota, Duluth",Physics,Condensed Matter Physics,experimental
+745,University of Mississippi,Physics & Astronomy,Condensed Matter Physics,experimental
+746,"University of Missouri, Columbia",Physics & Astronomy,Condensed Matter Physics,experimental
+747,"University of Nebraska, Lincoln",Nebraska Center for Materials & Nanoscience,Condensed Matter Physics,experimental
+748,"University of Nebraska, Lincoln",Physics & Astronomy,Condensed Matter Physics,experimental
+749,"University of Nebraska, Lincoln",Physics & Astronomy,Condensed Matter Physics,experimental
+750,"University of Nebraska, Lincoln",Physics & Astronomy,Condensed Matter Physics,experimental
+751,"University of Nebraska, Lincoln",Physics & Astronomy,Condensed Matter Physics,experimental
+752,"University of Nebraska, Lincoln",Physics & Astronomy,Condensed Matter Physics,experimental
+753,"University of Nebraska, Lincoln",Physics & Astronomy,Condensed Matter Physics,experimental
+754,"University of Nebraska, Lincoln",Physics & Astronomy,Condensed Matter Physics,experimental
+755,"University of Nebraska, Lincoln",Physics & Astronomy,Condensed Matter Physics,experimental
+756,"University of Nebraska, Lincoln",Physics & Astronomy,Condensed Matter Physics,experimental
+757,"University of Nebraska, Lincoln",Physics & Astronomy,Condensed Matter Physics,experimental
+758,"University of Nevada, Las Vegas",Physics,Condensed Matter Physics,experimental
+759,University of New Hampshire,Physics,Condensed Matter Physics,experimental
+760,"University of North Carolina, Chapel Hill",Physics & Astronomy,Condensed Matter Physics,experimental
+761,University of Notre Dame,Physics,Condensed Matter Physics,experimental
+762,University of Oklahoma,Physics & Astronomy,Condensed Matter Physics,experimental
+763,University of Oregon,Physics,Condensed Matter Physics,experimental
+764,University of Pennsylvania,Physics,Condensed Matter Physics,experimental
+765,University of Pittsburgh,Physics & Astronomy,Condensed Matter Physics,experimental
+766,University of Rochester,Physics & Astronomy,Condensed Matter Physics,experimental
+767,University of South Carolina,Physics & Astronomy,Condensed Matter Physics,experimental
+768,University of Southern California,Physics & Astronomy,Condensed Matter Physics,experimental
+769,"University of Tennessee, Knoxville",Physics & Astronomy,Condensed Matter Physics,experimental
+770,University of Texas at Austin,Physics,Condensed Matter Physics,experimental
+771,"University of Texas, Arlington",Physics,Condensed Matter Physics,experimental
+772,University of Utah,Physics,Condensed Matter Physics,experimental
+773,University of Vermont,Physics,Condensed Matter Physics,experimental
+774,University of Virginia,Physics,Condensed Matter Physics,experimental
+775,University of Washington,Physics,Condensed Matter Physics,experimental
+776,"University of Wisconsin, Milwaukee",Physics,Condensed Matter Physics,experimental
+777,University of Wyoming,Physics & Astronomy,Condensed Matter Physics,experimental
+778,Utah State University,Physics,Condensed Matter Physics,experimental
+779,Vanderbilt University,Physics & Astronomy,Condensed Matter Physics,experimental
+780,Virginia Commonwealth University,Physics,Condensed Matter Physics,experimental
+781,Virginia Tech,Physics,Condensed Matter Physics,experimental
+782,Wake Forest University,Physics,Condensed Matter Physics,experimental
+783,Washington University in St. Louis,Physics,Condensed Matter Physics,experimental
+784,Wayne State University,Physics and Astronomy,Condensed Matter Physics,experimental
+785,West Virginia University,Physics,Condensed Matter Physics,experimental
+786,Western Michigan University,Physics,Condensed Matter Physics,experimental
+787,Auburn University,Physics,Condensed Matter Physics,theoretical
+788,Baylor University,Physics,Condensed Matter Physics,theoretical
+789,Boston College,Physics,Condensed Matter Physics,theoretical
+790,Boston University,Physics,Condensed Matter Physics,theoretical
+791,"California State University, Long Beach",Physics & Astronomy,Condensed Matter Physics,theoretical
+792,Carnegie Mellon University,Physics,Condensed Matter Physics,theoretical
+793,Clark University,Physics,Condensed Matter Physics,theoretical
+794,Clarkson University,Physics,Condensed Matter Physics,theoretical
+795,Clemson University,Physics & Astronomy,Condensed Matter Physics,theoretical
+796,College of William and Mary,Physics,Condensed Matter Physics,theoretical
+797,Colorado School of Mines,Physics,Condensed Matter Physics,theoretical
+798,Columbia University,Physics,Condensed Matter Physics,theoretical
+799,Cornell University,Physics,Condensed Matter Physics,theoretical
+800,Eastern Michigan University,Physics and Astronomy,Condensed Matter Physics,theoretical
+801,Emory University,Physics,Condensed Matter Physics,theoretical
+802,Florida Atlantic University,Physics,Condensed Matter Physics,theoretical
+803,Florida State University,Physics,Condensed Matter Physics,theoretical
+804,Fudan University,Physics,Condensed Matter Physics,theoretical
+805,George Mason University,Physical Sciences,Condensed Matter Physics,theoretical
+806,Georgia Institute of Technology,Physics,Condensed Matter Physics,theoretical
+807,Georgia State University,Physics & Astronomy,Condensed Matter Physics,theoretical
+808,Harvard University,Physics,Condensed Matter Physics,theoretical
+809,Illinois Institute of Technology,Physics,Condensed Matter Physics,theoretical
+810,"Indiana University, Bloomington",Physics,Condensed Matter Physics,theoretical
+811,Iowa State University,Physics and Astronomy,Condensed Matter Physics,theoretical
+812,Iowa State University,Physics and Astronomy,Condensed Matter Physics,theoretical
+813,Lehigh University,Physics,Condensed Matter Physics,theoretical
+814,Massachusetts Institute of Technology,Physics,Condensed Matter Physics,theoretical
+815,Missouri University of Science & Technology,Physics,Condensed Matter Physics,theoretical
+816,"Montana State University, Bozeman",Physics,Condensed Matter Physics,theoretical
+817,New Mexico State University,Physics,Condensed Matter Physics,theoretical
+818,Northern Illinois University,Physics,Condensed Matter Physics,theoretical
+819,Northwestern University,Physics & Astronomy,Condensed Matter Physics,theoretical
+820,Oakland University,Physics,Condensed Matter Physics,theoretical
+821,Ohio State University,Physics,Condensed Matter Physics,theoretical
+822,Ohio University,Physics and Astronomy,Condensed Matter Physics,theoretical
+823,Oklahoma State University,Physics,Condensed Matter Physics,theoretical
+824,Old Dominion University,Physics,Condensed Matter Physics,theoretical
+825,Oregon State University,Physics,Condensed Matter Physics,theoretical
+826,Pennsylvania State University,Physics,Condensed Matter Physics,theoretical
+827,Purdue Universty,Physics,Condensed Matter Physics,theoretical
+828,Rensselaer Polytechnic Institute,"Physics, Applied Physics, Astronomy",Condensed Matter Physics,theoretical
+829,Rice University,Physics & Astronomy,Condensed Matter Physics,theoretical
+830,"Rutgers University, New Brunswick",Physics & Astronomy,Condensed Matter Physics,theoretical
+831,Southern Connecticut State University,Physics,Condensed Matter Physics,theoretical
+832,"State University of New York (SUNY), Albany",Physics,Condensed Matter Physics,theoretical
+833,"State University of New York (SUNY), Binghamton","Physics, Applied Physics & Astronomy",Condensed Matter Physics,theoretical
+834,"State University of New York (SUNY), Stony Brook",Physics & Astronomy,Condensed Matter Physics,theoretical
+835,"State University of New York (SUNY), Univ. at Buffalo",Physics,Condensed Matter Physics,theoretical
+836,Texas Tech University,Physics,Condensed Matter Physics,theoretical
+837,University of Alabama at Birmingham,Physics,Condensed Matter Physics,theoretical
+838,"University of Alabama, Tuscaloosa",Physics & Astronomy,Condensed Matter Physics,theoretical
+839,University of Arizona,Physics,Condensed Matter Physics,theoretical
+840,University of California Merced,Physics,Condensed Matter Physics,theoretical
+841,"University of California, Irvine",Physics,Condensed Matter Physics,theoretical
+842,"University of California, Riverside",Physics & Astronomy,Condensed Matter Physics,theoretical
+843,"University of California, San Diego",Physics,Condensed Matter Physics,theoretical
+844,"University of California, Santa Barbara",Physics,Condensed Matter Physics,theoretical
+845,University of Central Florida,Physics,Condensed Matter Physics,theoretical
+846,University of Chicago,Physics,Condensed Matter Physics,theoretical
+847,University of Cincinnati,Physics,Condensed Matter Physics,theoretical
+848,"University of Colorado, Boulder",Physics,Condensed Matter Physics,theoretical
+849,"University of Colorado, Colorado Springs",Physics,Condensed Matter Physics,theoretical
+850,University of Connecticut,Physics,Condensed Matter Physics,theoretical
+851,University of Delaware,Physics & Astronomy,Condensed Matter Physics,theoretical
+852,University of Denver,Physics,Condensed Matter Physics,theoretical
+853,University of Florida,Physics,Condensed Matter Physics,theoretical
+854,"University of Illinois, Chicago",Physics,Condensed Matter Physics,theoretical
+855,"University of Illinois, Urbana-Champaign",Physics,Condensed Matter Physics,theoretical
+856,University of Iowa,Physics & Astronomy,Condensed Matter Physics,theoretical
+857,"University of Maryland, Baltimore County",Physics Graduate Program,Condensed Matter Physics,theoretical
+858,"University of Massachusetts, Amherst",Physics,Condensed Matter Physics,theoretical
+859,University of Michigan,Applied Physics,Condensed Matter Physics,theoretical
+860,University of Minnesota,Physics,Condensed Matter Physics,theoretical
+861,University of Mississippi,Physics & Astronomy,Condensed Matter Physics,theoretical
+862,"University of Missouri, Columbia",Physics & Astronomy,Condensed Matter Physics,theoretical
+863,"University of Nebraska, Lincoln",Nebraska Center for Materials & Nanoscience,Condensed Matter Physics,theoretical
+864,"University of Nebraska, Lincoln",Physics & Astronomy,Condensed Matter Physics,theoretical
+865,"University of Nebraska, Lincoln",Physics & Astronomy,Condensed Matter Physics,theoretical
+866,"University of Nebraska, Lincoln",Physics & Astronomy,Condensed Matter Physics,theoretical
+867,"University of Nevada, Las Vegas",Physics,Condensed Matter Physics,theoretical
+868,University of New Hampshire,Physics,Condensed Matter Physics,theoretical
+869,"University of North Carolina, Chapel Hill",Physics & Astronomy,Condensed Matter Physics,theoretical
+870,University of Notre Dame,Physics,Condensed Matter Physics,theoretical
+871,University of Oklahoma,Physics & Astronomy,Condensed Matter Physics,theoretical
+872,University of Oregon,Physics,Condensed Matter Physics,theoretical
+873,University of Pennsylvania,Physics,Condensed Matter Physics,theoretical
+874,University of Pittsburgh,Physics & Astronomy,Condensed Matter Physics,theoretical
+875,University of Rochester,Physics & Astronomy,Condensed Matter Physics,theoretical
+876,University of South Carolina,Physics & Astronomy,Condensed Matter Physics,theoretical
+877,University of South Florida,Physics,Condensed Matter Physics,theoretical
+878,University of Southern California,Physics & Astronomy,Condensed Matter Physics,theoretical
+879,"University of Tennessee, Knoxville",Physics & Astronomy,Condensed Matter Physics,theoretical
+880,University of Texas at Austin,Physics,Condensed Matter Physics,theoretical
+881,"University of Texas, Arlington",Physics,Condensed Matter Physics,theoretical
+882,University of Utah,Physics,Condensed Matter Physics,theoretical
+883,University of Vermont,Physics,Condensed Matter Physics,theoretical
+884,University of Virginia,Physics,Condensed Matter Physics,theoretical
+885,University of Washington,Physics,Condensed Matter Physics,theoretical
+886,"University of Wisconsin, Milwaukee",Physics,Condensed Matter Physics,theoretical
+887,University of Wyoming,Physics & Astronomy,Condensed Matter Physics,theoretical
+888,Utah State University,Physics,Condensed Matter Physics,theoretical
+889,Vanderbilt University,Physics & Astronomy,Condensed Matter Physics,theoretical
+890,Wake Forest University,Physics,Condensed Matter Physics,theoretical
+891,Washington University in St. Louis,Physics,Condensed Matter Physics,theoretical
+892,Wayne State University,Physics and Astronomy,Condensed Matter Physics,theoretical
+893,West Virginia University,Physics,Condensed Matter Physics,theoretical
+894,Western Michigan University,Physics,Condensed Matter Physics,theoretical
+895,Northeastern University,Physics,Condensed Matter Theory,theoretical
+896,Princeton University,Physics,Condensed Matter Theory,theoretical
+897,"University of Wisconsin, Madison",Physics,Condensed Matter Theory,theoretical
+898,Virginia Tech,Physics,Condensed Matter/Statistical Physics,theoretical
+899,University of South Florida,Physics,Condensed-Matter and Materials Physics,experimental
+900,Case Western Reserve University,Physics,Cosmology,theoretical
+901,University of Kansas,Physics & Astronomy,Cosmology,theoretical
+902,Princeton University,Physics,Cosmology & Gravity Theory,theoretical
+903,Kansas State University,Physics,Cosmology & Particle Astrophysics,theoretical
+904,Baylor University,Physics,Cosmology & String Theory,theoretical
+905,Bryn Mawr College,Physics,Cosmology & String Theory,theoretical
+906,Cornell University,Physics,Cosmology & String Theory,theoretical
+907,Harvard University,Physics,Cosmology & String Theory,theoretical
+908,Lehigh University,Physics,Cosmology & String Theory,theoretical
+909,New Mexico State University,Astronomy,Cosmology & String Theory,theoretical
+910,"State University of New York (SUNY), Albany",Physics,Cosmology & String Theory,theoretical
+911,"State University of New York (SUNY), Univ. at Buffalo",Physics,Cosmology & String Theory,theoretical
+912,University of Cincinnati,Physics,Cosmology & String Theory,theoretical
+913,University of Michigan,Applied Physics,Cosmology & String Theory,theoretical
+914,"University of Minnesota, Duluth",Physics,Cosmology & String Theory,theoretical
+915,"University of Missouri, Columbia",Physics & Astronomy,Cosmology & String Theory,theoretical
+916,University of Pennsylvania,Physics,Cosmology & String Theory,theoretical
+917,Vanderbilt University,Physics & Astronomy,Cosmology & String Theory,theoretical
+918,Ohio State University,Physics,Cosmology and Astroparticle Physics,experimental
+919,Ohio State University,Physics,Cosmology and Astroparticle Physics,theoretical
+920,Cornell University,Physics,Cosmology and Astrophysics,experimental
+921,"University of Maryland, College Park",Astronomy,Cosmology and Galaxy Formation,theoretical
+922,Princeton University,Physics,Cosmology Experiment & Observation,experimental
+923,Arizona State University,Physics & Astronomy,"Cosmology, Particle Physics and Astrophysics",experimental
+924,Arizona State University,Physics & Astronomy,"Cosmology, Particle Physics and Astrophysics",theoretical
+925,University of Michigan,Applied Physics,Crystallography,experimental
+926,Seton Hall University,Physics,Crystallography,theoretical
+927,University of Michigan,Applied Physics,Crystallography,theoretical
+928,Southern Methodist University,Physics,Dark Matter,experimental
+929,"University of Texas, Arlington",Physics,Data Science,theoretical
+930,University of Wisconsin,Medical Physics Program,Diagnostic X-Ray Imaging,experimental
+931,University of Wisconsin,Medical Physics Program,Diagnostic X-Ray Imaging,theoretical
+932,North Dakota State University,Physics,Dynamics of Fluid Mixtures,theoretical
+933,University of Houston,Physics,Econophysics,theoretical
+934,Arizona State University,Physics & Astronomy,Education and Societal Impact,experimental
+935,Arizona State University,Physics & Astronomy,Education and Societal Impact,theoretical
+936,University of Houston,Physics,Education of Physics,theoretical
+937,Harvard University,Physics,Electrical Engineering,experimental
+938,Montana Tech,Geosciences & Engineering,Electrical Engineering,experimental
+939,University of Michigan,Applied Physics,Electrical Engineering,experimental
+940,University of Michigan,Applied Physics,Electrical Engineering,theoretical
+941,University of Oregon,Physics,Electromagnetic Geophysics,experimental
+942,Harvard University,Physics,Electromagnetism,experimental
+943,University of Michigan,Applied Physics,Electromagnetism,experimental
+944,Eastern Michigan University,Physics and Astronomy,Electromagnetism,theoretical
+945,Harvard University,Physics,Electromagnetism,theoretical
+946,Portland State University,Physics,Electromagnetism,theoretical
+947,University of Michigan,Applied Physics,Electromagnetism,theoretical
+948,Stevens Institute of Technology,Physics And Engineering Physics,Electron Transport,theoretical
+949,Case Western Reserve University,Physics,Electronic Properties of Metals and Semiconductors,theoretical
+950,North Dakota State University,Physics,Electronic Structure of Nanoparticles from First Principles,theoretical
+951,University of Maine,Physics and Astronomy,Electronic Structure of Nanoparticles from First Principles,theoretical
+952,Case Western Reserve University,Physics,Electronic Strucure of Matterials,experimental
+953,Montana Tech of the University of Montana,Materials Science PhD Program,"Electronic, Photonic, and Magnetic Materials",experimental
+954,Emory University,Physics,Energy and Earth science,experimental
+955,Clark University,Physics,Energy Sources & Environment,experimental
+956,Harvard University,Physics,Energy Sources & Environment,experimental
+957,Iowa State University,Physics and Astronomy,Energy Sources & Environment,experimental
+958,"University of California, Berkeley",Physics,Energy Sources & Environment,experimental
+959,University of Michigan,Applied Physics,Energy Sources & Environment,experimental
+960,Wake Forest University,Physics,Energy Sources & Environment,experimental
+961,Harvard University,Physics,Energy Sources & Environment,theoretical
+962,Seton Hall University,Physics,Energy Sources & Environment,theoretical
+963,University of Michigan,Applied Physics,Energy Sources & Environment,theoretical
+964,Virginia Commonwealth University,Physics,Energy Sources & Environment,theoretical
+965,University of Michigan,Applied Physics,Engineering Physics/Science,experimental
+966,University of Michigan,Applied Physics,Engineering Physics/Science,theoretical
+967,Montana Tech,Geosciences & Engineering,Environmental Engineering,experimental
+968,"University of California, Riverside",Physics & Astronomy,Environmental Physics,experimental
+969,Stanford University,Physics,Experimental and Observational Astrophysics and Cosmology,experimental
+970,"University of California, Berkeley",Physics,Experimental Astrophysics,experimental
+971,University of Kentucky,Physics & Astronomy,Experimental Atomic Physics,experimental
+972,Northeastern University,Physics,Experimental Biological and Medical Physics,experimental
+973,Case Western Reserve University,Physics,Experimental Biophysics,experimental
+974,Florida International University,Physics,Experimental Biophysics,experimental
+975,Stanford University,Physics,Experimental Condensed Matter Physics,experimental
+976,University of Kentucky,Physics & Astronomy,Experimental Condensed Matter Physics,experimental
+977,Case Western Reserve University,Physics,Experimental Cosmology and Particle Astrophysics,experimental
+978,Northeastern University,Physics,Experimental Nanophysics,experimental
+979,Florida International University,Physics,Experimental nuclear physics,experimental
+980,"North Carolina State University, Raleigh",Physics,Experimental Nuclear Physics,experimental
+981,University of Kentucky,Physics & Astronomy,Experimental Nuclear Physics,experimental
+982,Northeastern University,Physics,Experimental Particle Physics,experimental
+983,Southern Methodist University,Physics,Experimental Particle Physics,experimental
+984,Stanford University,Physics,Experimental Particle Physics,experimental
+985,"University of Massachusetts, Amherst",Physics,Experimental Particles and Fields,experimental
+986,East Carolina University,Physics,Experimental Radiation Physics,experimental
+987,"University of Maryland, College Park",Astronomy,Extragalactic Astronomy,experimental
+988,The University of North Carolina at Charlotte,Physics and Optical Science,Fiber and integrated optics,experimental
+989,The University of North Carolina at Charlotte,Physics and Optical Science,Fiber and integrated optics,theoretical
+990,University of Central Florida,"CREOL, The College of Optics & Photonics",Fiber Optics,experimental
+991,Utah State University,Physics,Field Theory,theoretical
+992,North Dakota State University,Physics,Flexible Nanotube Networks:,experimental
+993,Case Western Reserve University,Physics,Fluid Physics,experimental
+994,Cornell University,Physics,"Fluids, Rheology",experimental
+995,Eastern Michigan University,Physics and Astronomy,"Fluids, Rheology",experimental
+996,Emory University,Physics,"Fluids, Rheology",experimental
+997,Harvard University,Physics,"Fluids, Rheology",experimental
+998,Lehigh University,Physics,"Fluids, Rheology",experimental
+999,Oakland University,Physics,"Fluids, Rheology",experimental
+1000,Oklahoma State University,Physics,"Fluids, Rheology",experimental
+1001,University of Michigan,Applied Physics,"Fluids, Rheology",experimental
+1002,University of Michigan,Applied Physics,"Fluids, Rheology",theoretical
+1003,"Texas State University, San Marcos",Physics,Forensic Astronomy,experimental
+1004,The University of North Carolina at Charlotte,Physics and Optical Science,Freeform Optics,experimental
+1005,The University of North Carolina at Charlotte,Physics and Optical Science,Freeform Optics,theoretical
+1006,"University of California, Riverside",Physics & Astronomy,Fundamental Precision Measurements,experimental
+1007,Bryn Mawr College,Physics,Galaxy Evolution & Dynamics.,theoretical
+1008,Montana Tech,Geosciences & Engineering,General Engineering,experimental
+1009,University of Maine,Physics and Astronomy,General Relativity,theoretical
+1010,Montana Tech,Geosciences & Engineering,Geochemistry,experimental
+1011,Montana Tech,Geosciences & Engineering,Geological Engineering,experimental
+1012,Montana Tech,Geosciences & Engineering,Geology,experimental
+1013,University of Michigan,Applied Physics,Geology/Geochemistry,experimental
+1014,University of Michigan,Applied Physics,Geology/Geochemistry,theoretical
+1015,Duke University,Physics,Geometry / Theoretical Physics,theoretical
+1016,Montana Tech,Geosciences & Engineering,Geophysical Engineering,experimental
+1017,New Mexico State University,Physics,Geophysics,experimental
+1018,Purdue Universty,Physics,Geophysics,experimental
+1019,University of Alaska Fairbanks,Physics,Geophysics,experimental
+1020,"University of Colorado, Boulder",Physics,Geophysics,experimental
+1021,University of Connecticut,Physics,Geophysics,experimental
+1022,University of Michigan,Applied Physics,Geophysics,experimental
+1023,New Mexico State University,Physics,Geophysics,theoretical
+1024,University of Alaska Fairbanks,Physics,Geophysics,theoretical
+1025,"University of Colorado, Boulder",Physics,Geophysics,theoretical
+1026,University of Michigan,Applied Physics,Geophysics,theoretical
+1027,New Jersey Institute of Technology,Physics,Geospace Research,experimental
+1028,Rice University,Smalley-Curl Institute,Graphene and 2D Systems,experimental
+1029,Rice University,Smalley-Curl Institute,Graphene and 2D Systems,theoretical
+1030,Fudan University,Physics,"Gravitation, Cosmology and Black Hole Physics",theoretical
+1031,Wake Forest University,Physics,Gravitational,theoretical
+1032,Pennsylvania State University,Physics,Gravitational wave astronomy,experimental
+1033,New Mexico State University,Physics,Hadronic Physics,theoretical
+1034,Georgetown University,Physics,Hard Condensed Matter Physics,experimental
+1035,Georgetown University,Physics,Hard condensed-matter physics,theoretical
+1036,Rice University,Smalley-Curl Institute,Heavy Fermion Superconductors,experimental
+1037,Rice University,Smalley-Curl Institute,Heavy Fermion Superconductors,theoretical
+1038,University of Michigan,Applied Physics,Heliophysics and Space Weather,experimental
+1039,George Mason University,Physical Sciences,Heliophysics and Space Weather,theoretical
+1040,University of Michigan,Applied Physics,Heliophysics and Space Weather,theoretical
+1041,University of Houston,Physics,High Energy,theoretical
+1042,University of New Hampshire,Physics,High Energy Astrophysics,experimental
+1043,"University of Maryland, College Park",Astronomy,High Energy Astrophysics,theoretical
+1044,University of New Hampshire,Physics,High Energy Astrophysics and Gravitational Wave Astrophysics,theoretical
+1045,Princeton University,Physics,High Energy Experiment,experimental
+1046,"University of Wisconsin, Madison",Physics,High Energy Experiment,experimental
+1047,University of Houston,Physics,High Energy Heavy Ion Physics,experimental
+1048,Case Western Reserve University,Physics,High Energy Particle Physics,experimental
+1049,Boston University,Physics,High Energy Physics,experimental
+1050,College of William and Mary,Physics,High Energy Physics,experimental
+1051,Columbia University,Physics,High Energy Physics,experimental
+1052,Cornell University,Physics,High Energy Physics,experimental
+1053,Duke University,Physics,High Energy Physics,experimental
+1054,Florida State University,Physics,High Energy Physics,experimental
+1055,George Mason University,Physical Sciences,High Energy Physics,experimental
+1056,Harvard University,Physics,High Energy Physics,experimental
+1057,"Indiana University, Bloomington",Physics,High Energy Physics,experimental
+1058,Iowa State University,Physics and Astronomy,High Energy Physics,experimental
+1059,Kansas State University,Physics,High Energy Physics,experimental
+1060,Lehigh University,Physics,High Energy Physics,experimental
+1061,Northern Illinois University,Physics,High Energy Physics,experimental
+1062,Ohio State University,Physics,High Energy Physics,experimental
+1063,Oklahoma State University,Physics,High Energy Physics,experimental
+1064,"Rutgers University, New Brunswick",Physics & Astronomy,High Energy Physics,experimental
+1065,Southern Connecticut State University,Physics,High Energy Physics,experimental
+1066,"State University of New York (SUNY), Stony Brook",Physics & Astronomy,High Energy Physics,experimental
+1067,"State University of New York (SUNY), Univ. at Buffalo",Physics,High Energy Physics,experimental
+1068,Texas Tech University,Physics,High Energy Physics,experimental
+1069,"University of Alabama, Tuscaloosa",Physics & Astronomy,High Energy Physics,experimental
+1070,University of Arizona,Physics,High Energy Physics,experimental
+1071,"University of California, Berkeley",Physics,High Energy Physics,experimental
+1072,"University of California, San Diego",Physics,High Energy Physics,experimental
+1073,University of Cincinnati,Physics,High Energy Physics,experimental
+1074,"University of Colorado, Boulder",Physics,High Energy Physics,experimental
+1075,"University of Illinois, Chicago",Physics,High Energy Physics,experimental
+1076,"University of Illinois, Urbana-Champaign",Physics,High Energy Physics,experimental
+1077,University of Kansas,Physics & Astronomy,High Energy Physics,experimental
+1078,University of Michigan,Applied Physics,High Energy Physics,experimental
+1079,"University of Minnesota, Duluth",Physics,High Energy Physics,experimental
+1080,University of Mississippi,Physics & Astronomy,High Energy Physics,experimental
+1081,"University of Nebraska, Lincoln",Physics & Astronomy,High Energy Physics,experimental
+1082,"University of Nebraska, Lincoln",Physics & Astronomy,High Energy Physics,experimental
+1083,"University of Nebraska, Lincoln",Physics & Astronomy,High Energy Physics,experimental
+1084,"University of Nebraska, Lincoln",Physics & Astronomy,High Energy Physics,experimental
+1085,University of Notre Dame,Physics,High Energy Physics,experimental
+1086,University of Oklahoma,Physics & Astronomy,High Energy Physics,experimental
+1087,University of Oregon,Physics,High Energy Physics,experimental
+1088,University of Rochester,Physics & Astronomy,High Energy Physics,experimental
+1089,University of South Carolina,Physics & Astronomy,High Energy Physics,experimental
+1090,"University of Tennessee, Knoxville",Physics & Astronomy,High Energy Physics,experimental
+1091,University of Texas at Austin,Physics,High Energy Physics,experimental
+1092,"University of Texas, Arlington",Physics,High Energy Physics,experimental
+1093,University of Virginia,Physics,High Energy Physics,experimental
+1094,University of Washington,Physics,High Energy Physics,experimental
+1095,Vanderbilt University,Physics & Astronomy,High Energy Physics,experimental
+1096,Washington University in St. Louis,Physics,High Energy Physics,experimental
+1097,"California State University, Long Beach",Physics & Astronomy,High Energy Physics,theoretical
+1098,College of William and Mary,Physics,High Energy Physics,theoretical
+1099,Columbia University,Physics,High Energy Physics,theoretical
+1100,Cornell University,Physics,High Energy Physics,theoretical
+1101,Florida State University,Physics,High Energy Physics,theoretical
+1102,Harvard University,Physics,High Energy Physics,theoretical
+1103,"Indiana University, Bloomington",Physics,High Energy Physics,theoretical
+1104,Iowa State University,Physics and Astronomy,High Energy Physics,theoretical
+1105,Lehigh University,Physics,High Energy Physics,theoretical
+1106,Northern Illinois University,Physics,High Energy Physics,theoretical
+1107,Ohio State University,Physics,High Energy Physics,theoretical
+1108,Oklahoma State University,Physics,High Energy Physics,theoretical
+1109,"State University of New York (SUNY), Univ. at Buffalo",Physics,High Energy Physics,theoretical
+1110,"University of Alabama, Tuscaloosa",Physics & Astronomy,High Energy Physics,theoretical
+1111,University of Arizona,Physics,High Energy Physics,theoretical
+1112,"University of California, San Diego",Physics,High Energy Physics,theoretical
+1113,"University of California, Santa Barbara",Physics,High Energy Physics,theoretical
+1114,"University of Colorado, Boulder",Physics,High Energy Physics,theoretical
+1115,University of Connecticut,Physics,High Energy Physics,theoretical
+1116,"University of Illinois, Chicago",Physics,High Energy Physics,theoretical
+1117,"University of Illinois, Urbana-Champaign",Physics,High Energy Physics,theoretical
+1118,University of Minnesota,Physics,High Energy Physics,theoretical
+1119,"University of Nebraska, Lincoln",Physics & Astronomy,High Energy Physics,theoretical
+1120,University of New Hampshire,Physics,High Energy Physics,theoretical
+1121,University of Oklahoma,Physics & Astronomy,High Energy Physics,theoretical
+1122,University of Oregon,Physics,High Energy Physics,theoretical
+1123,University of Rochester,Physics & Astronomy,High Energy Physics,theoretical
+1124,University of Southern California,Physics & Astronomy,High Energy Physics,theoretical
+1125,University of Virginia,Physics,High Energy Physics,theoretical
+1126,Utah State University,Physics,High Energy Physics,theoretical
+1127,Vanderbilt University,Physics & Astronomy,High Energy Physics,theoretical
+1128,Washington University in St. Louis,Physics,High Energy Physics,theoretical
+1129,Colorado State University,Physics,High Energy Physics and Particle Astrophysics,experimental
+1130,Northeastern University,Physics,High Energy Theory,theoretical
+1131,"University of Wisconsin, Madison",Physics,High Energy Theory,theoretical
+1132,University of Houston,Physics,"High Energy, Particle and Astroparticle Physics",experimental
+1133,Princeton University,Physics,High Enery Theory,theoretical
+1134,Stevens Institute of Technology,Physics And Engineering Physics,High Sensitivity Laser Spectroscopy,experimental
+1135,New Mexico State University,Physics,High-Energy Nuclear Physics,experimental
+1136,Oakland University,Physics,High-pressure Physics,experimental
+1137,University of Maine,Physics and Astronomy,High-Resolution Microscopy,experimental
+1138,Harvard University,Physics,History & Philosophy of Physics/Science,theoretical
+1139,"University of California, Irvine",Physics,History & Philosophy of Physics/Science,theoretical
+1140,"University of Colorado, Boulder",Physics,History & Philosophy of Physics/Science,theoretical
+1141,University of Michigan,Applied Physics,History & Philosophy of Physics/Science,theoretical
+1142,University of Minnesota,Physics,History & Philosophy of Physics/Science,theoretical
+1143,Montana Tech,Geosciences & Engineering,Hydrogeological Engineering,experimental
+1144,University of Maine,Physics and Astronomy,Hyperspectral Remote Sensing Physics,experimental
+1145,"Texas State University, San Marcos",Physics,III-nitride semiconductors,experimental
+1146,University of Arizona,Optical Sciences,Image Science,experimental
+1147,University of Arizona,Optical Sciences,Image Science,theoretical
+1148,Oakland University,Physics,Imaging,experimental
+1149,Case Western Reserve University,Physics,Imaging Physics,theoretical
+1150,University of Central Florida,"CREOL, The College of Optics & Photonics","Imaging, Sensing, and Display",experimental
+1151,"State University of New York (SUNY), Albany",Physics,Information Physics,theoretical
+1152,University of Cincinnati,Physics,Interdisciplinary Research,experimental
+1153,Stevens Institute of Technology,Physics And Engineering Physics,Ion Surface Interactions,theoretical
+1154,"University of California, Riverside",Physics & Astronomy,Joint Programs,experimental
+1155,Stevens Institute of Technology,Physics And Engineering Physics,Laser Matter Interactions,theoretical
+1156,"University of Maryland, Baltimore County",Atmospheric Physics Graduate Program,Light scattering and radiative transfer,theoretical
+1157,Case Western Reserve University,Physics,Liquid Crystals,theoretical
+1158,Case Western Reserve University,Physics,Liquid Crystals and Complex Fluids,experimental
+1159,University of Maine,Physics and Astronomy,Liquid Crystals and Complex Fluids,experimental
+1160,Cornell University,Physics,Low Temperature Physics,experimental
+1161,Harvard University,Physics,Low Temperature Physics,experimental
+1162,Oakland University,Physics,Low Temperature Physics,experimental
+1163,San Diego State University,Physics,Low Temperature Physics,experimental
+1164,"State University of New York (SUNY), Univ. at Buffalo",Physics,Low Temperature Physics,experimental
+1165,University of Cincinnati,Physics,Low Temperature Physics,experimental
+1166,"University of Colorado, Boulder",Physics,Low Temperature Physics,experimental
+1167,University of Florida,Physics,Low Temperature Physics,experimental
+1168,"University of Massachusetts, Amherst",Physics,Low Temperature Physics,experimental
+1169,University of Utah,Physics,Low Temperature Physics,experimental
+1170,"California State University, Long Beach",Physics & Astronomy,Low Temperature Physics,theoretical
+1171,North Dakota State University,Physics,Macromolecular Crowding and Depletion,theoretical
+1172,Oakland University,Physics,Magnetic Resonance Imaging (MRI),experimental
+1173,University of Wisconsin,Medical Physics Program,Magnetic Resonance Imaging and Spectroscopy,experimental
+1174,University of Wisconsin,Medical Physics Program,Magnetic Resonance Imaging and Spectroscopy,theoretical
+1175,"University of Massachusetts, Dartmouth",Physics,Marine Science/Oceanography,experimental
+1176,University of Michigan,Applied Physics,Marine Science/Oceanography,experimental
+1177,"University of Minnesota, Duluth",Physics,Marine Science/Oceanography,experimental
+1178,"University of Massachusetts, Dartmouth",Physics,Marine Science/Oceanography,theoretical
+1179,University of Michigan,Applied Physics,Marine Science/Oceanography,theoretical
+1180,"University of Minnesota, Duluth",Physics,Marine Science/Oceanography,theoretical
+1181,University of Maine,Physics and Astronomy,Material Science,experimental
+1182,Central Michigan University,Physics,Materials characterization,experimental
+1183,Montana Tech of the University of Montana,Materials Science PhD Program,"Materials for Energy Storage, Conversion, and Conservation",experimental
+1184,"University of California, Santa Cruz",Physics,Materials Group,experimental
+1185,Michigan Technological University,Physics,Materials Physics,experimental
+1186,"University of California, Santa Cruz",Physics,Materials Program,theoretical
+1187,New Mexico State University,Physics,Materials Science,experimental
+1188,New Mexico State University,Physics,Materials Science,theoretical
+1189,Montana Tech,Geosciences & Engineering,Materials Science & Engineering,experimental
+1190,Alabama A&M University,Physics,"Materials Science, Metallurgy",experimental
+1191,Columbia University,Department of Applied Physics and Applied Mathematics,"Materials Science, Metallurgy",experimental
+1192,DePaul University,Physics,"Materials Science, Metallurgy",experimental
+1193,Harvard University,Physics,"Materials Science, Metallurgy",experimental
+1194,Indiana University - Purdue University Indianapolis,Physics,"Materials Science, Metallurgy",experimental
+1195,New Jersey Institute of Technology,Physics,"Materials Science, Metallurgy",experimental
+1196,Oakland University,Physics,"Materials Science, Metallurgy",experimental
+1197,Old Dominion University,Physics,"Materials Science, Metallurgy",experimental
+1198,Pennsylvania State University,Physics,"Materials Science, Metallurgy",experimental
+1199,Portland State University,Physics,"Materials Science, Metallurgy",experimental
+1200,"State University of New York (SUNY), Albany",Physics,"Materials Science, Metallurgy",experimental
+1201,"State University of New York (SUNY), Univ. at Buffalo",Physics,"Materials Science, Metallurgy",experimental
+1202,"Texas State University, San Marcos",Physics,"Materials Science, Metallurgy",experimental
+1203,University of Alabama at Birmingham,Physics,"Materials Science, Metallurgy",experimental
+1204,"University of Colorado, Boulder",Physics,"Materials Science, Metallurgy",experimental
+1205,University of Michigan,Applied Physics,"Materials Science, Metallurgy",experimental
+1206,University of Michigan,Applied Physics,"Materials Science, Metallurgy",experimental
+1207,"University of Nebraska, Lincoln",Nebraska Center for Materials & Nanoscience,"Materials Science, Metallurgy",experimental
+1208,University of Utah,Physics,"Materials Science, Metallurgy",experimental
+1209,University of Vermont,Physics,"Materials Science, Metallurgy",experimental
+1210,University of Wyoming,Physics & Astronomy,"Materials Science, Metallurgy",experimental
+1211,West Virginia University,Physics,"Materials Science, Metallurgy",experimental
+1212,Alabama A&M University,Physics,"Materials Science, Metallurgy",theoretical
+1213,Columbia University,Department of Applied Physics and Applied Mathematics,"Materials Science, Metallurgy",theoretical
+1214,Montana Tech,Geosciences & Engineering,"Materials Science, Metallurgy",theoretical
+1215,Montana Tech of the University of Montana,Materials Science PhD Program,"Materials Science, Metallurgy",theoretical
+1216,Oakland University,Physics,"Materials Science, Metallurgy",theoretical
+1217,"State University of New York (SUNY), Univ. at Buffalo",Physics,"Materials Science, Metallurgy",theoretical
+1218,University of Michigan,Applied Physics,"Materials Science, Metallurgy",theoretical
+1219,"University of Wisconsin, Madison",Physics,"Materials Science, Metallurgy",theoretical
+1220,University of Wyoming,Physics & Astronomy,"Materials Science, Metallurgy",theoretical
+1221,Virginia Commonwealth University,Physics,"Materials Science, Metallurgy",theoretical
+1222,Montana Tech of the University of Montana,Materials Science PhD Program,"Materials synthesis, processing, amd fabrication",experimental
+1223,"Rutgers University, New Brunswick",Physics & Astronomy,Mathematical and statistical physics,theoretical
+1224,Princeton University,Physics,Mathematical Physics,theoretical
+1225,University of Iowa,Physics & Astronomy,Mathematical Physics,theoretical
+1226,Utah State University,Physics,Mathematical Physics,theoretical
+1227,Oakland University,Physics,Mechanics,experimental
+1228,University of Michigan,Applied Physics,Mechanics,experimental
+1229,"University of Nebraska, Lincoln",Nebraska Center for Materials & Nanoscience,Mechanics,experimental
+1230,Eastern Michigan University,Physics and Astronomy,Mechanics,theoretical
+1231,George Mason University,Physical Sciences,Mechanics,theoretical
+1232,"State University of New York (SUNY), Univ. at Buffalo",Physics,Mechanics,theoretical
+1233,University of Michigan,Applied Physics,Mechanics,theoretical
+1234,"University of Nebraska, Lincoln",Nebraska Center for Materials & Nanoscience,Mechanics,theoretical
+1235,University of Houston,Physics,Medical Imaging Physics,experimental
+1236,University of Houston,Physics,Medical Imaging Physics,theoretical
+1237,Columbia University,Department of Applied Physics and Applied Mathematics,"Medical, Health Physics",experimental
+1238,Creighton University,Physics,"Medical, Health Physics",experimental
+1239,Duke University,Physics,"Medical, Health Physics",experimental
+1240,East Carolina University,Physics,"Medical, Health Physics",experimental
+1241,Harvard University,Physics,"Medical, Health Physics",experimental
+1242,Oakland University,Physics,"Medical, Health Physics",experimental
+1243,San Diego State University,Physics,"Medical, Health Physics",experimental
+1244,Southern Connecticut State University,Physics,"Medical, Health Physics",experimental
+1245,"University of California, Irvine",Physics,"Medical, Health Physics",experimental
+1246,University of Central Florida,Physics,"Medical, Health Physics",experimental
+1247,University of Cincinnati,Physics,"Medical, Health Physics",experimental
+1248,University of Iowa,Physics & Astronomy,"Medical, Health Physics",experimental
+1249,"University of Massachusetts, Lowell",Physics & Applied Physics,"Medical, Health Physics",experimental
+1250,University of Michigan,Applied Physics,"Medical, Health Physics",experimental
+1251,"University of Missouri, Columbia",Physics & Astronomy,"Medical, Health Physics",experimental
+1252,University of South Florida,Physics,"Medical, Health Physics",experimental
+1253,University of Utah,Physics,"Medical, Health Physics",experimental
+1254,College of William and Mary,Physics,"Medical, Health Physics",theoretical
+1255,Oakland University,Physics,"Medical, Health Physics",theoretical
+1256,"University of California, Irvine",Physics,"Medical, Health Physics",theoretical
+1257,"University of California, Irvine",Physics,"Medical, Health Physics",theoretical
+1258,University of Michigan,Applied Physics,"Medical, Health Physics",theoretical
+1259,University of South Florida,Physics,"Medical, Health Physics",theoretical
+1260,"University of Texas, Arlington",Physics,"Medical, Health Physics",theoretical
+1261,"University of Wisconsin, Milwaukee",Physics,"Medical, Health Physics",theoretical
+1262,University of Houston,Physics,Medium Energy & Heavy Ion Physics,theoretical
+1263,Montana Tech,Geosciences & Engineering,Metallurgical / Mineral Processing,experimental
+1264,Rice University,Smalley-Curl Institute,Metamaterial Lenses,experimental
+1265,Rice University,Smalley-Curl Institute,Metamaterial Lenses,theoretical
+1266,"University of Massachusetts, Lowell",Physics & Applied Physics,metamaterials,theoretical
+1267,"Texas State University, San Marcos",Physics,Micro mechanics,experimental
+1268,The University of North Carolina at Charlotte,Physics and Optical Science,Micro-optics and nanophotonics,experimental
+1269,The University of North Carolina at Charlotte,Physics and Optical Science,Micro-optics and nanophotonics,theoretical
+1270,"University of Maryland, College Park",Astronomy,Millimeter-Wave Astronomy,experimental
+1271,Montana Tech,Geosciences & Engineering,Mining Engineering,experimental
+1272,Rice University,Smalley-Curl Institute,Modeling Quantum Criticality,experimental
+1273,Rice University,Smalley-Curl Institute,Modeling Quantum Criticality,theoretical
+1274,East Carolina University,Physics,Molecular Biophysics,experimental
+1275,Rice University,Smalley-Curl Institute,Motor Protein Dynamics,experimental
+1276,Rice University,Smalley-Curl Institute,Motor Protein Dynamics,theoretical
+1277,North Dakota State University,Physics,Multiscale Modeling of Soft Nanomaterials,theoretical
+1278,Boston College,Physics,Nano Science and Technology,experimental
+1279,Bowling Green State University,Physics & Astronomy,Nano Science and Technology,experimental
+1280,"California State University, Long Beach",Physics & Astronomy,Nano Science and Technology,experimental
+1281,Clemson University,Physics & Astronomy,Nano Science and Technology,experimental
+1282,Cornell University,Physics,Nano Science and Technology,experimental
+1283,Creighton University,Physics,Nano Science and Technology,experimental
+1284,Duke University,Physics,Nano Science and Technology,experimental
+1285,Emory University,Physics,Nano Science and Technology,experimental
+1286,Georgetown University,Physics,Nano Science and Technology,experimental
+1287,Harvard University,Physics,Nano Science and Technology,experimental
+1288,New Mexico State University,Physics,Nano Science and Technology,experimental
+1289,Oakland University,Physics,Nano Science and Technology,experimental
+1290,Portland State University,Physics,Nano Science and Technology,experimental
+1291,San Francisco State University,Physics & Astronomy,Nano Science and Technology,experimental
+1292,Seton Hall University,Physics,Nano Science and Technology,experimental
+1293,Southern Connecticut State University,Physics,Nano Science and Technology,experimental
+1294,Texas Christian University,Physics and Astronomy,Nano Science and Technology,experimental
+1295,"Texas State University, San Marcos",Physics,Nano Science and Technology,experimental
+1296,Texas Tech University,Physics,Nano Science and Technology,experimental
+1297,University of Alabama at Birmingham,Physics,Nano Science and Technology,experimental
+1298,University of California Merced,Physics,Nano Science and Technology,experimental
+1299,"University of California, Riverside",Physics & Astronomy,Nano Science and Technology,experimental
+1300,University of Cincinnati,Physics,Nano Science and Technology,experimental
+1301,"University of Massachusetts, Amherst",Physics,Nano Science and Technology,experimental
+1302,"University of Massachusetts, Lowell",Physics & Applied Physics,Nano Science and Technology,experimental
+1303,University of Michigan,Applied Physics,Nano Science and Technology,experimental
+1304,University of Utah,Physics,Nano Science and Technology,experimental
+1305,University of Wyoming,Physics & Astronomy,Nano Science and Technology,experimental
+1306,Wake Forest University,Physics,Nano Science and Technology,experimental
+1307,West Virginia University,Physics,Nano Science and Technology,experimental
+1308,Boston College,Physics,Nano Science and Technology,theoretical
+1309,Bowling Green State University,Physics & Astronomy,Nano Science and Technology,theoretical
+1310,Clarkson University,Physics,Nano Science and Technology,theoretical
+1311,Georgetown University,Physics,Nano Science and Technology,theoretical
+1312,New Mexico State University,Physics,Nano Science and Technology,theoretical
+1313,Oakland University,Physics,Nano Science and Technology,theoretical
+1314,Portland State University,Physics,Nano Science and Technology,theoretical
+1315,University of California Merced,Physics,Nano Science and Technology,theoretical
+1316,University of Michigan,Applied Physics,Nano Science and Technology,theoretical
+1317,Virginia Commonwealth University,Physics,Nano Science and Technology,theoretical
+1318,Florida International University,Physics,Nano-biophysics,experimental
+1319,Rice University,Smalley-Curl Institute,Nanocatalysts for Clean Energy,experimental
+1320,Rice University,Smalley-Curl Institute,Nanocatalysts for Clean Energy,theoretical
+1321,Rice University,Smalley-Curl Institute,Nanodevices for Neuroscience,experimental
+1322,Rice University,Smalley-Curl Institute,Nanodevices for Neuroscience,theoretical
+1323,Rice University,Smalley-Curl Institute,Nanoparticle-Based Theranostics,experimental
+1324,Rice University,Smalley-Curl Institute,Nanoparticle-Based Theranostics,theoretical
+1325,Stevens Institute of Technology,Physics And Engineering Physics,Nanophotonics,experimental
+1326,"State University of New York (SUNY), Univ. at Buffalo",Physics,Nanophysics,experimental
+1327,University of Houston,Physics,Nanophysics,experimental
+1328,Duke University,Physics,Nanophysics,theoretical
+1329,"State University of New York (SUNY), Univ. at Buffalo",Physics,Nanophysics,theoretical
+1330,University of Houston,Physics,Nanophysics,theoretical
+1331,The University of North Carolina at Charlotte,Physics and Optical Science,Nanoscale imaging and spectroscopy,experimental
+1332,The University of North Carolina at Charlotte,Physics and Optical Science,Nanoscale imaging and spectroscopy,theoretical
+1333,Appalachian State University,Physics and Astronomy,Nanoscience and Condensed Matter Physics,experimental
+1334,Arizona State University,Physics & Astronomy,Nanoscience and Materials Physics,experimental
+1335,Arizona State University,Physics & Astronomy,Nanoscience and Materials Physics,theoretical
+1336,Case Western Reserve University,Physics,Nanoscopic Physics,experimental
+1337,Northeastern University,Physics,Network Science,theoretical
+1338,University of Houston,Physics,Network Science,theoretical
+1339,Florida International University,Physics,Neuroimaging,experimental
+1340,"University of California, Santa Cruz",Physics,NeuroProject,experimental
+1341,Virginia Tech,Physics,Neuroscience and Medical Physics,experimental
+1342,George Mason University,Physical Sciences,Neuroscience/Neuro Physics,experimental
+1343,Georgia State University,Physics & Astronomy,Neuroscience/Neuro Physics,experimental
+1344,University of Michigan,Applied Physics,Neuroscience/Neuro Physics,experimental
+1345,Washington University in St. Louis,Physics,Neuroscience/Neuro Physics,experimental
+1346,George Mason University,Physical Sciences,Neuroscience/Neuro Physics,theoretical
+1347,University of Michigan,Applied Physics,Neuroscience/Neuro Physics,theoretical
+1348,"University of Wisconsin, Madison",Physics,Neutrino and Astroparticle Experiment,experimental
+1349,"University of Wisconsin, Madison",Physics,Neutrino and Astroparticle Theory,theoretical
+1350,New Mexico State University,Physics,Neutrino physics,experimental
+1351,University of Central Florida,"CREOL, The College of Optics & Photonics",Nonlinear & Quantum Optics,experimental
+1352,University of Central Florida,"CREOL, The College of Optics & Photonics",Nonlinear & Quantum Optics,theoretical
+1353,University of Texas at Austin,Physics,Nonlinear Dynamics,experimental
+1354,University of Texas at Austin,Physics,Nonlinear Dynamics,theoretical
+1355,Baylor University,Physics,Nonlinear Dynamics and Complex Systems,experimental
+1356,Clark University,Physics,Nonlinear Dynamics and Complex Systems,experimental
+1357,Duke University,Physics,Nonlinear Dynamics and Complex Systems,experimental
+1358,Eastern Michigan University,Physics and Astronomy,Nonlinear Dynamics and Complex Systems,experimental
+1359,George Mason University,Physical Sciences,Nonlinear Dynamics and Complex Systems,experimental
+1360,Georgia Institute of Technology,Physics,Nonlinear Dynamics and Complex Systems,experimental
+1361,Harvard University,Physics,Nonlinear Dynamics and Complex Systems,experimental
+1362,University of Michigan,Applied Physics,Nonlinear Dynamics and Complex Systems,experimental
+1363,College of William and Mary,Physics,Nonlinear Dynamics and Complex Systems,theoretical
+1364,DePaul University,Physics,Nonlinear Dynamics and Complex Systems,theoretical
+1365,Emory University,Physics,Nonlinear Dynamics and Complex Systems,theoretical
+1366,George Mason University,Physical Sciences,Nonlinear Dynamics and Complex Systems,theoretical
+1367,Georgia Institute of Technology,Physics,Nonlinear Dynamics and Complex Systems,theoretical
+1368,Harvard University,Physics,Nonlinear Dynamics and Complex Systems,theoretical
+1369,Oakland University,Physics,Nonlinear Dynamics and Complex Systems,theoretical
+1370,Texas Christian University,Physics and Astronomy,Nonlinear Dynamics and Complex Systems,theoretical
+1371,University of Alaska Fairbanks,Physics,Nonlinear Dynamics and Complex Systems,theoretical
+1372,University of California Merced,Physics,Nonlinear Dynamics and Complex Systems,theoretical
+1373,"University of California, San Diego",Physics,Nonlinear Dynamics and Complex Systems,theoretical
+1374,University of Michigan,Applied Physics,Nonlinear Dynamics and Complex Systems,theoretical
+1375,Utah State University,Physics,Nonlinear Dynamics and Complex Systems,theoretical
+1376,"University of California, Berkeley",Physics,"Nonlinear Dynamics, Plasma and Beam Physics, and Complex Systems",experimental
+1377,"University of California, Berkeley",Physics,"Nonlinear Dynamics, Plasma and Beam Physics, and Complex Systems",theoretical
+1378,The University of North Carolina at Charlotte,Physics and Optical Science,Novel light-matter interactions,experimental
+1379,The University of North Carolina at Charlotte,Physics and Optical Science,Novel light-matter interactions,theoretical
+1380,Kent State University,Department of Physics,Nuclear and Particle Physics,experimental
+1381,Virginia Tech,Physics,Nuclear and Particle Physics,experimental
+1382,Kent State University,Department of Physics,Nuclear and Particle Physics,theoretical
+1383,University of Michigan,Applied Physics,Nuclear Engineering,experimental
+1384,Oakland University,Physics,Nuclear Magnetic Resonance (NMR),experimental
+1385,University of Wisconsin,Medical Physics Program,"Nuclear Medicine, PET, Molecular Imaging",experimental
+1386,University of Wisconsin,Medical Physics Program,"Nuclear Medicine, PET, Molecular Imaging",theoretical
+1387,Carnegie Mellon University,Physics,Nuclear Physics,experimental
+1388,College of William and Mary,Physics,Nuclear Physics,experimental
+1389,Columbia University,Physics,Nuclear Physics,experimental
+1390,Creighton University,Physics,Nuclear Physics,experimental
+1391,DePaul University,Physics,Nuclear Physics,experimental
+1392,Duke University,Physics,Nuclear Physics,experimental
+1393,Florida State University,Physics,Nuclear Physics,experimental
+1394,George Washington University,Physics,Nuclear Physics,experimental
+1395,Georgia State University,Physics & Astronomy,Nuclear Physics,experimental
+1396,Harvard University,Physics,Nuclear Physics,experimental
+1397,"Indiana University, Bloomington",Physics,Nuclear Physics,experimental
+1398,Iowa State University,Physics and Astronomy,Nuclear Physics,experimental
+1399,Massachusetts Institute of Technology,Physics,Nuclear Physics,experimental
+1400,New Mexico Institute of Mining and Technology,Physics,Nuclear Physics,experimental
+1401,Ohio State University,Physics,Nuclear Physics,experimental
+1402,Ohio University,Physics and Astronomy,Nuclear Physics,experimental
+1403,Old Dominion University,Physics,Nuclear Physics,experimental
+1404,Purdue Universty,Physics,Nuclear Physics,experimental
+1405,"Rutgers University, New Brunswick",Physics & Astronomy,Nuclear Physics,experimental
+1406,Southern Connecticut State University,Physics,Nuclear Physics,experimental
+1407,"State University of New York (SUNY), Stony Brook",Physics & Astronomy,Nuclear Physics,experimental
+1408,University of Chicago,Physics,Nuclear Physics,experimental
+1409,"University of Colorado, Boulder",Physics,Nuclear Physics,experimental
+1410,University of Connecticut,Physics,Nuclear Physics,experimental
+1411,"University of Illinois, Chicago",Physics,Nuclear Physics,experimental
+1412,"University of Illinois, Urbana-Champaign",Physics,Nuclear Physics,experimental
+1413,University of Iowa,Physics & Astronomy,Nuclear Physics,experimental
+1414,University of Kansas,Physics & Astronomy,Nuclear Physics,experimental
+1415,"University of Massachusetts, Dartmouth",Physics,Nuclear Physics,experimental
+1416,"University of Massachusetts, Lowell",Physics & Applied Physics,Nuclear Physics,experimental
+1417,University of Michigan,Applied Physics,Nuclear Physics,experimental
+1418,University of New Hampshire,Physics,Nuclear Physics,experimental
+1419,"University of North Carolina, Chapel Hill",Physics & Astronomy,Nuclear Physics,experimental
+1420,University of Notre Dame,Physics,Nuclear Physics,experimental
+1421,University of Rochester,Physics & Astronomy,Nuclear Physics,experimental
+1422,University of South Carolina,Physics & Astronomy,Nuclear Physics,experimental
+1423,"University of Tennessee, Knoxville",Physics & Astronomy,Nuclear Physics,experimental
+1424,University of Virginia,Physics,Nuclear Physics,experimental
+1425,University of Washington,Physics,Nuclear Physics,experimental
+1426,Vanderbilt University,Physics & Astronomy,Nuclear Physics,experimental
+1427,Virginia Commonwealth University,Physics,Nuclear Physics,experimental
+1428,Wayne State University,Physics and Astronomy,Nuclear Physics,experimental
+1429,Western Michigan University,Physics,Nuclear Physics,experimental
+1430,"California State University, Long Beach",Physics & Astronomy,Nuclear Physics,theoretical
+1431,Carnegie Mellon University,Physics,Nuclear Physics,theoretical
+1432,College of William and Mary,Physics,Nuclear Physics,theoretical
+1433,Columbia University,Physics,Nuclear Physics,theoretical
+1434,Florida State University,Physics,Nuclear Physics,theoretical
+1435,George Mason University,Physical Sciences,Nuclear Physics,theoretical
+1436,George Washington University,Physics,Nuclear Physics,theoretical
+1437,Harvard University,Physics,Nuclear Physics,theoretical
+1438,"Indiana University, Bloomington",Physics,Nuclear Physics,theoretical
+1439,Iowa State University,Physics and Astronomy,Nuclear Physics,theoretical
+1440,Massachusetts Institute of Technology,Physics,Nuclear Physics,theoretical
+1441,Ohio State University,Physics,Nuclear Physics,theoretical
+1442,Ohio University,Physics and Astronomy,Nuclear Physics,theoretical
+1443,Purdue Universty,Physics,Nuclear Physics,theoretical
+1444,"Rutgers University, New Brunswick",Physics & Astronomy,Nuclear Physics,theoretical
+1445,San Diego State University,Physics,Nuclear Physics,theoretical
+1446,"State University of New York (SUNY), Stony Brook",Physics & Astronomy,Nuclear Physics,theoretical
+1447,University of Arizona,Physics,Nuclear Physics,theoretical
+1448,"University of California, Berkeley",Physics,Nuclear Physics,theoretical
+1449,"University of Colorado, Boulder",Physics,Nuclear Physics,theoretical
+1450,University of Connecticut,Physics,Nuclear Physics,theoretical
+1451,"University of Illinois, Chicago",Physics,Nuclear Physics,theoretical
+1452,"University of Illinois, Urbana-Champaign",Physics,Nuclear Physics,theoretical
+1453,University of Iowa,Physics & Astronomy,Nuclear Physics,theoretical
+1454,University of Minnesota,Physics,Nuclear Physics,theoretical
+1455,"University of North Carolina, Chapel Hill",Physics & Astronomy,Nuclear Physics,theoretical
+1456,University of Notre Dame,Physics,Nuclear Physics,theoretical
+1457,University of South Carolina,Physics & Astronomy,Nuclear Physics,theoretical
+1458,"University of Tennessee, Knoxville",Physics & Astronomy,Nuclear Physics,theoretical
+1459,University of Texas at Austin,Physics,Nuclear Physics,theoretical
+1460,University of Virginia,Physics,Nuclear Physics,theoretical
+1461,University of Washington,Physics,Nuclear Physics,theoretical
+1462,Vanderbilt University,Physics & Astronomy,Nuclear Physics,theoretical
+1463,Washington University in St. Louis,Physics,Nuclear Physics,theoretical
+1464,Wayne State University,Physics and Astronomy,Nuclear Physics,theoretical
+1465,Western Michigan University,Physics,Nuclear Physics,theoretical
+1466,Central Michigan University,Physics,Nuclear structure physics,theoretical
+1467,"University of Wisconsin, Madison",Physics,Nuclear Theory,theoretical
+1468,"University of Massachusetts, Amherst",Physics,"Nuclear, Neutrino and Dark Matter Physics",experimental
+1469,"University of California, Riverside",Physics & Astronomy,Nucleon Structure,experimental
+1470,University of Kentucky,Physics & Astronomy,Observational Astronomy,experimental
+1471,"University of Texas, Arlington",Physics,Observational Astronomy,experimental
+1472,"Indiana University, Bloomington",Astronomy,Observational Astrophysics,experimental
+1473,"Indiana University, Bloomington",Astronomy,Observational Astrophysics,experimental
+1474,"Indiana University, Bloomington",Astronomy,Observational Astrophysics,experimental
+1475,The University of North Carolina at Charlotte,Physics and Optical Science,Optical communication,experimental
+1476,The University of North Carolina at Charlotte,Physics and Optical Science,Optical communication,theoretical
+1477,Stevens Institute of Technology,Physics And Engineering Physics,Optical Control of Quantum Systems,experimental
+1478,Stevens Institute of Technology,Physics And Engineering Physics,Optical Diagnosis of Gas Phase Materials,experimental
+1479,The University of North Carolina at Charlotte,Physics and Optical Science,Optical engineering,experimental
+1480,University of Arizona,Optical Sciences,Optical Engineering,experimental
+1481,University of Arizona,Optical Sciences,Optical Engineering,experimental
+1482,The University of North Carolina at Charlotte,Physics and Optical Science,Optical Engineering,theoretical
+1483,University of Arizona,Optical Sciences,Optical Engineering,theoretical
+1484,University of Arizona,Optical Sciences,Optical Engineering,theoretical
+1485,The University of North Carolina at Charlotte,Physics and Optical Science,Optical fabrication,experimental
+1486,The University of North Carolina at Charlotte,Physics and Optical Science,Optical fabrication,theoretical
+1487,University of Wisconsin,Medical Physics Program,Optical Imaging,experimental
+1488,University of Wisconsin,Medical Physics Program,Optical Imaging,theoretical
+1489,The University of North Carolina at Charlotte,Physics and Optical Science,Optical interferometry and metrology,experimental
+1490,The University of North Carolina at Charlotte,Physics and Optical Science,Optical interferometry and metrology,theoretical
+1491,"Texas State University, San Marcos",Physics,Optical Materials Properties,experimental
+1492,Rensselaer Polytechnic Institute,"Physics, Applied Physics, Astronomy",Optical Physics,experimental
+1493,University of Arizona,Optical Sciences,Optical Physics,experimental
+1494,University of Arizona,Optical Sciences,Optical Physics,theoretical
+1495,Case Western Reserve University,Physics,Optical Properties of Materials,experimental
+1496,The University of North Carolina at Charlotte,Physics and Optical Science,Optical sensors and measurements,experimental
+1497,The University of North Carolina at Charlotte,Physics and Optical Science,Optical sensors and measurements,theoretical
+1498,Alabama A&M University,Physics,Optics,experimental
+1499,Boston College,Physics,Optics,experimental
+1500,Columbia University,Department of Applied Physics and Applied Mathematics,Optics,experimental
+1501,Cornell University,Physics,Optics,experimental
+1502,DePaul University,Physics,Optics,experimental
+1503,Eastern Michigan University,Physics and Astronomy,Optics,experimental
+1504,Fudan University,Physics,Optics,experimental
+1505,Georgetown University,Physics,Optics,experimental
+1506,Harvard University,Physics,Optics,experimental
+1507,Indiana University - Purdue University Indianapolis,Physics,Optics,experimental
+1508,Lehigh University,Physics,Optics,experimental
+1509,New Mexico State University,Physics,Optics,experimental
+1510,"North Carolina State University, Raleigh",Physics,Optics,experimental
+1511,Oklahoma State University,Physics,Optics,experimental
+1512,Portland State University,Physics,Optics,experimental
+1513,San Diego State University,Physics,Optics,experimental
+1514,San Francisco State University,Physics & Astronomy,Optics,experimental
+1515,San Jose State University,Physics,Optics,experimental
+1516,Southern Connecticut State University,Physics,Optics,experimental
+1517,"State University of New York (SUNY), Albany",Physics,Optics,experimental
+1518,"State University of New York (SUNY), Univ. at Buffalo",Physics,Optics,experimental
+1519,University of Alabama at Birmingham,Physics,Optics,experimental
+1520,University of Arizona,Optical Sciences,Optics,experimental
+1521,University of Arizona,Optical Sciences,Optics,experimental
+1522,University of Arizona,Optical Sciences,Optics,experimental
+1523,University of Central Florida,Physics,Optics,experimental
+1524,University of Cincinnati,Physics,Optics,experimental
+1525,"University of Colorado, Boulder",Physics,Optics,experimental
+1526,University of Dayton,Electro-Optics Program,Optics,experimental
+1527,University of Delaware,Physics & Astronomy,Optics,experimental
+1528,"University of Massachusetts, Lowell",Physics & Applied Physics,Optics,experimental
+1529,University of Michigan,Applied Physics,Optics,experimental
+1530,"University of Missouri, Columbia",Physics & Astronomy,Optics,experimental
+1531,University of Oregon,Physics,Optics,experimental
+1532,University of Southern California,Physics & Astronomy,Optics,experimental
+1533,"University of Texas, Arlington",Physics,Optics,experimental
+1534,University of Utah,Physics,Optics,experimental
+1535,"University of Wisconsin, Milwaukee",Physics,Optics,experimental
+1536,Alabama A&M University,Physics,Optics,theoretical
+1537,Clarkson University,Physics,Optics,theoretical
+1538,Eastern Michigan University,Physics and Astronomy,Optics,theoretical
+1539,Harvard University,Physics,Optics,theoretical
+1540,New Mexico State University,Physics,Optics,theoretical
+1541,Oklahoma State University,Physics,Optics,theoretical
+1542,"State University of New York (SUNY), Albany",Physics,Optics,theoretical
+1543,University of Alabama at Birmingham,Physics,Optics,theoretical
+1544,University of Arizona,Optical Sciences,Optics,theoretical
+1545,University of Arizona,Optical Sciences,Optics,theoretical
+1546,University of Arizona,Optical Sciences,Optics,theoretical
+1547,"University of Colorado, Boulder",Physics,Optics,theoretical
+1548,University of Dayton,Electro-Optics Program,Optics,theoretical
+1549,"University of Massachusetts, Lowell",Physics & Applied Physics,Optics,theoretical
+1550,University of Michigan,Applied Physics,Optics,theoretical
+1551,University of Oregon,Physics,Optics,theoretical
+1552,Virginia Commonwealth University,Physics,Optics,theoretical
+1553,The University of North Carolina at Charlotte,Physics and Optical Science,Optoelectronic materials and devices,experimental
+1554,The University of North Carolina at Charlotte,Physics and Optical Science,Optoelectronic materials and devices,theoretical
+1555,University of Central Florida,"CREOL, The College of Optics & Photonics",Optoelectronics & Integrated Photonics,experimental
+1556,University of Arizona,Optical Sciences,Optomechanics,experimental
+1557,University of Arizona,Optical Sciences,Optomechanics,theoretical
+1558,Montana Tech of the University of Montana,Materials Science PhD Program,Other,experimental
+1559,Stevens Institute of Technology,Physics And Engineering Physics,Other,experimental
+1560,University of Arizona,Physics,Other,experimental
+1561,University of Iowa,Physics & Astronomy,Other,experimental
+1562,University of Iowa,Physics & Astronomy,Other,experimental
+1563,University of Michigan,Applied Physics,Other,experimental
+1564,Alabama A&M University,Physics,Other,theoretical
+1565,Auburn University,Physics,Other,theoretical
+1566,University of Iowa,Physics & Astronomy,Other,theoretical
+1567,University of Iowa,Physics & Astronomy,Other,theoretical
+1568,University of Michigan,Applied Physics,Other,theoretical
+1569,Fudan University,Physics,Partical Physics,theoretical
+1570,Princeton University,Physics,Particle & Nuclear Astrophysics,theoretical
+1571,Rensselaer Polytechnic Institute,"Physics, Applied Physics, Astronomy",Particle Astrophysics,experimental
+1572,Case Western Reserve University,Physics,Particle Astrophysics,theoretical
+1573,Princeton University,Physics,Particle Phenomenology,theoretical
+1574,University of Iowa,Physics & Astronomy,Particle Physics,experimental
+1575,Case Western Reserve University,Physics,Particle Physics,theoretical
+1576,Rensselaer Polytechnic Institute,"Physics, Applied Physics, Astronomy",Particle Physics,theoretical
+1577,University of Chicago,Physics,Particle Physics & String Theory,theoretical
+1578,Baylor University,Physics,Particles and Fields,experimental
+1579,Carnegie Mellon University,Physics,Particles and Fields,experimental
+1580,College of William and Mary,Physics,Particles and Fields,experimental
+1581,Drexel University,Physics,Particles and Fields,experimental
+1582,Illinois Institute of Technology,Physics,Particles and Fields,experimental
+1583,Massachusetts Institute of Technology,Physics,Particles and Fields,experimental
+1584,Northwestern University,Physics & Astronomy,Particles and Fields,experimental
+1585,Oakland University,Physics,Particles and Fields,experimental
+1586,Oregon State University,Physics,Particles and Fields,experimental
+1587,Pennsylvania State University,Physics,Particles and Fields,experimental
+1588,Purdue Universty,Physics,Particles and Fields,experimental
+1589,Rice University,Physics & Astronomy,Particles and Fields,experimental
+1590,"State University of New York (SUNY), Albany",Physics,Particles and Fields,experimental
+1591,"State University of New York (SUNY), Univ. at Buffalo",Physics,Particles and Fields,experimental
+1592,"University of California, Berkeley",Physics,Particles and Fields,experimental
+1593,"University of California, Irvine",Physics,Particles and Fields,experimental
+1594,"University of California, Riverside",Physics & Astronomy,Particles and Fields,experimental
+1595,"University of California, Santa Barbara",Physics,Particles and Fields,experimental
+1596,University of Chicago,Physics,Particles and Fields,experimental
+1597,"University of Colorado, Boulder",Physics,Particles and Fields,experimental
+1598,University of Delaware,Physics & Astronomy,Particles and Fields,experimental
+1599,University of Florida,Physics,Particles and Fields,experimental
+1600,University of Michigan,Applied Physics,Particles and Fields,experimental
+1601,University of Minnesota,Physics,Particles and Fields,experimental
+1602,University of Pennsylvania,Physics,Particles and Fields,experimental
+1603,University of Pittsburgh,Physics & Astronomy,Particles and Fields,experimental
+1604,University of Utah,Physics,Particles and Fields,experimental
+1605,Wayne State University,Physics and Astronomy,Particles and Fields,experimental
+1606,Baylor University,Physics,Particles and Fields,theoretical
+1607,Boston University,Physics,Particles and Fields,theoretical
+1608,Carnegie Mellon University,Physics,Particles and Fields,theoretical
+1609,College of William and Mary,Physics,Particles and Fields,theoretical
+1610,Cornell University,Physics,Particles and Fields,theoretical
+1611,George Mason University,Physical Sciences,Particles and Fields,theoretical
+1612,Georgetown University,Physics,Particles and Fields,theoretical
+1613,Harvard University,Physics,Particles and Fields,theoretical
+1614,Illinois Institute of Technology,Physics,Particles and Fields,theoretical
+1615,Massachusetts Institute of Technology,Physics,Particles and Fields,theoretical
+1616,Northwestern University,Physics & Astronomy,Particles and Fields,theoretical
+1617,Pennsylvania State University,Physics,Particles and Fields,theoretical
+1618,Purdue Universty,Physics,Particles and Fields,theoretical
+1619,Rice University,Physics & Astronomy,Particles and Fields,theoretical
+1620,"Rutgers University, New Brunswick",Physics & Astronomy,Particles and Fields,theoretical
+1621,San Francisco State University,Physics & Astronomy,Particles and Fields,theoretical
+1622,"State University of New York (SUNY), Univ. at Buffalo",Physics,Particles and Fields,theoretical
+1623,"University of Alabama, Tuscaloosa",Physics & Astronomy,Particles and Fields,theoretical
+1624,"University of California, Berkeley",Physics,Particles and Fields,theoretical
+1625,"University of California, Irvine",Physics,Particles and Fields,theoretical
+1626,"University of California, Riverside",Physics & Astronomy,Particles and Fields,theoretical
+1627,University of Cincinnati,Physics,Particles and Fields,theoretical
+1628,"University of Colorado, Boulder",Physics,Particles and Fields,theoretical
+1629,University of Delaware,Physics & Astronomy,Particles and Fields,theoretical
+1630,University of Florida,Physics,Particles and Fields,theoretical
+1631,University of Iowa,Physics & Astronomy,Particles and Fields,theoretical
+1632,University of Kansas,Physics & Astronomy,Particles and Fields,theoretical
+1633,"University of Massachusetts, Amherst",Physics,Particles and Fields,theoretical
+1634,"University of Massachusetts, Dartmouth",Physics,Particles and Fields,theoretical
+1635,"University of Massachusetts, Lowell",Physics & Applied Physics,Particles and Fields,theoretical
+1636,University of Mississippi,Physics & Astronomy,Particles and Fields,theoretical
+1637,"University of North Carolina, Chapel Hill",Physics & Astronomy,Particles and Fields,theoretical
+1638,University of Notre Dame,Physics,Particles and Fields,theoretical
+1639,University of Pennsylvania,Physics,Particles and Fields,theoretical
+1640,University of Pittsburgh,Physics & Astronomy,Particles and Fields,theoretical
+1641,University of Texas at Austin,Physics,Particles and Fields,theoretical
+1642,"University of Texas, Arlington",Physics,Particles and Fields,theoretical
+1643,University of Washington,Physics,Particles and Fields,theoretical
+1644,Virginia Tech,Physics,Particles and Fields,theoretical
+1645,Washington University in St. Louis,Physics,Particles and Fields,theoretical
+1646,Wayne State University,Physics and Astronomy,Particles and Fields,theoretical
+1647,Montana Tech,Geosciences & Engineering,Petroleum Engineering,experimental
+1648,University of Arizona,Optical Sciences,Photonics,experimental
+1649,University of Arizona,Optical Sciences,Photonics,experimental
+1650,University of Arizona,Optical Sciences,Photonics,theoretical
+1651,University of Arizona,Optical Sciences,Photonics,theoretical
+1652,Duke University,Physics,Photonics and Quantum Information,experimental
+1653,Miami University,Physics,Physical Acoustics,experimental
+1654,Fudan University,Physics,Physical Biology,experimental
+1655,"State University of New York (SUNY), Stony Brook",Physics & Astronomy,Physical Biology,theoretical
+1656,Bowling Green State University,Physics & Astronomy,Physics and other Science Education,experimental
+1657,Clark University,Physics,Physics and other Science Education,experimental
+1658,Clarkson University,Physics,Physics and other Science Education,experimental
+1659,Cornell University,Physics,Physics and other Science Education,experimental
+1660,DePaul University,Physics,Physics and other Science Education,experimental
+1661,Eastern Michigan University,Physics and Astronomy,Physics and other Science Education,experimental
+1662,Florida International University,Physics,Physics and other Science Education,experimental
+1663,George Washington University,Physics,Physics and other Science Education,experimental
+1664,Georgia State University,Physics & Astronomy,Physics and other Science Education,experimental
+1665,Harvard University,Physics,Physics and other Science Education,experimental
+1666,Indiana University - Purdue University Indianapolis,Physics,Physics and other Science Education,experimental
+1667,Kansas State University,Physics,Physics and other Science Education,experimental
+1668,Miami University,Physics,Physics and other Science Education,experimental
+1669,Ohio University,Physics and Astronomy,Physics and other Science Education,experimental
+1670,Portland State University,Physics,Physics and other Science Education,experimental
+1671,Purdue Universty,Physics,Physics and other Science Education,experimental
+1672,San Francisco State University,Physics & Astronomy,Physics and other Science Education,experimental
+1673,Southern Connecticut State University,Physics,Physics and other Science Education,experimental
+1674,"State University of New York (SUNY), Univ. at Buffalo",Physics,Physics and other Science Education,experimental
+1675,University of Cincinnati,Physics,Physics and other Science Education,experimental
+1676,"University of Colorado, Boulder",Physics,Physics and other Science Education,experimental
+1677,"University of Illinois, Urbana-Champaign",Physics,Physics and other Science Education,experimental
+1678,University of Michigan,Applied Physics,Physics and other Science Education,experimental
+1679,University of Minnesota,Physics,Physics and other Science Education,experimental
+1680,"University of Missouri, Columbia",Physics & Astronomy,Physics and other Science Education,experimental
+1681,University of Pittsburgh,Physics & Astronomy,Physics and other Science Education,experimental
+1682,University of Utah,Physics,Physics and other Science Education,experimental
+1683,University of Washington,Physics,Physics and other Science Education,experimental
+1684,West Virginia University,Physics,Physics and other Science Education,experimental
+1685,Western Michigan University,Physics,Physics and other Science Education,experimental
+1686,Clarkson University,Physics,Physics and other Science Education,theoretical
+1687,George Mason University,Physical Sciences,Physics and other Science Education,theoretical
+1688,"Montana State University, Bozeman",Physics,Physics and other Science Education,theoretical
+1689,"State University of New York (SUNY), Univ. at Buffalo",Physics,Physics and other Science Education,theoretical
+1690,Texas Tech University,Physics,Physics and other Science Education,theoretical
+1691,"University of California, Riverside",Physics & Astronomy,Physics and other Science Education,theoretical
+1692,University of Central Florida,Physics,Physics and other Science Education,theoretical
+1693,"University of Colorado, Boulder",Physics,Physics and other Science Education,theoretical
+1694,University of Kansas,Physics & Astronomy,Physics and other Science Education,theoretical
+1695,University of Michigan,Applied Physics,Physics and other Science Education,theoretical
+1696,"University of Tennessee, Knoxville",Physics & Astronomy,Physics and other Science Education,theoretical
+1697,Utah State University,Physics,Physics and other Science Education,theoretical
+1698,Stanford University,Physics,Physics and Science Education Research,experimental
+1699,University of Texas at Austin,Physics,Physics Education,theoretical
+1700,Drexel University,Physics,Physics Education Research,experimental
+1701,"North Carolina State University, Raleigh",Physics,Physics Education Research,experimental
+1702,Ohio State University,Physics,Physics Education Research,experimental
+1703,Oregon State University,Physics,Physics Education Research,experimental
+1704,"Texas State University, San Marcos",Physics,Physics Education Research,experimental
+1705,University of Maine,Physics and Astronomy,Physics Education Research,experimental
+1706,North Dakota State University,Physics,Physics Education Research,theoretical
+1707,"Texas State University, San Marcos",Physics,Physics Education Research,theoretical
+1708,University of Maine,Physics and Astronomy,Physics Education Research,theoretical
+1709,University of New Hampshire,Physics,Physics Education Research and Physics and Society,experimental
+1710,College of William and Mary,Physics,Physics of Beams,experimental
+1711,Duke University,Physics,Physics of Beams,experimental
+1712,Northern Illinois University,Physics,Physics of Beams,experimental
+1713,"University of Colorado, Boulder",Physics,Physics of Beams,experimental
+1714,University of Michigan,Applied Physics,Physics of Beams,experimental
+1715,Northern Illinois University,Physics,Physics of Beams,theoretical
+1716,University of Michigan,Applied Physics,Physics of Beams,theoretical
+1717,Central Michigan University,Physics,Physics of circumstellar disks,theoretical
+1718,"Texas State University, San Marcos",Physics,Physics of Organic Semiconductors,experimental
+1719,University of Houston,Physics,Planetary Atmospheres,experimental
+1720,New Mexico Institute of Mining and Technology,Physics,Planetary Science,experimental
+1721,New Mexico State University,Astronomy,Planetary Science,experimental
+1722,Northern Arizona University,Physics,Planetary Science,experimental
+1723,University of Central Florida,Physics,Planetary Science,experimental
+1724,"University of Maryland, College Park",Astronomy,Planetary Science,experimental
+1725,University of Michigan,Applied Physics,Planetary Science,experimental
+1726,Washington University in St. Louis,Physics,Planetary Science,experimental
+1727,New Mexico Institute of Mining and Technology,Physics,Planetary Science,theoretical
+1728,Purdue Universty,Physics,Planetary Science,theoretical
+1729,University of Florida,Physics,Planetary Science,theoretical
+1730,University of Houston,Physics,Planetary Science,theoretical
+1731,"University of Maryland, College Park",Astronomy,Planetary Science,theoretical
+1732,University of Michigan,Applied Physics,Planetary Science,theoretical
+1733,"University of Nebraska, Lincoln",Physics & Astronomy,Plasma,theoretical
+1734,Auburn University,Physics,Plasma and Fusion,experimental
+1735,Bryn Mawr College,Physics,Plasma and Fusion,experimental
+1736,College of William and Mary,Physics,Plasma and Fusion,experimental
+1737,Columbia University,Department of Applied Physics and Applied Mathematics,Plasma and Fusion,experimental
+1738,Eastern Michigan University,Physics and Astronomy,Plasma and Fusion,experimental
+1739,Florida International University,Physics,Plasma and Fusion,experimental
+1740,Lehigh University,Physics,Plasma and Fusion,experimental
+1741,Massachusetts Institute of Technology,Physics,Plasma and Fusion,experimental
+1742,San Jose State University,Physics,Plasma and Fusion,experimental
+1743,Seton Hall University,Physics,Plasma and Fusion,experimental
+1744,"University of California, Berkeley",Physics,Plasma and Fusion,experimental
+1745,"University of California, Irvine",Physics,Plasma and Fusion,experimental
+1746,"University of California, San Diego",Physics,Plasma and Fusion,experimental
+1747,"University of Colorado, Boulder",Physics,Plasma and Fusion,experimental
+1748,University of Iowa,Physics & Astronomy,Plasma and Fusion,experimental
+1749,University of Michigan,Applied Physics,Plasma and Fusion,experimental
+1750,"University of Nevada, Reno",Physics,Plasma and Fusion,experimental
+1751,University of Rochester,Physics & Astronomy,Plasma and Fusion,experimental
+1752,University of Texas at Austin,Physics,Plasma and Fusion,experimental
+1753,West Virginia University,Physics,Plasma and Fusion,experimental
+1754,Auburn University,Physics,Plasma and Fusion,theoretical
+1755,Boston College,Physics,Plasma and Fusion,theoretical
+1756,College of William and Mary,Physics,Plasma and Fusion,theoretical
+1757,Eastern Michigan University,Physics and Astronomy,Plasma and Fusion,theoretical
+1758,Massachusetts Institute of Technology,Physics,Plasma and Fusion,theoretical
+1759,"University of California, Irvine",Physics,Plasma and Fusion,theoretical
+1760,"University of California, San Diego",Physics,Plasma and Fusion,theoretical
+1761,"University of Colorado, Boulder",Physics,Plasma and Fusion,theoretical
+1762,University of Iowa,Physics & Astronomy,Plasma and Fusion,theoretical
+1763,University of Michigan,Applied Physics,Plasma and Fusion,theoretical
+1764,"University of Nevada, Reno",Physics,Plasma and Fusion,theoretical
+1765,University of Rochester,Physics & Astronomy,Plasma and Fusion,theoretical
+1766,University of Texas at Austin,Physics,Plasma and Fusion,theoretical
+1767,University of Wyoming,Physics & Astronomy,Plasma and Fusion,theoretical
+1768,Utah State University,Physics,Plasma and Fusion,theoretical
+1769,Wayne State University,Physics and Astronomy,Plasma and Fusion,theoretical
+1770,West Virginia University,Physics,Plasma and Fusion,theoretical
+1771,"University of Wisconsin, Madison",Physics,Plasma Experiment,experimental
+1772,New Mexico Institute of Mining and Technology,Physics,Plasma Physics,theoretical
+1773,"University of Massachusetts, Lowell",Physics & Applied Physics,Plasma Physics,theoretical
+1774,"University of Wisconsin, Madison",Physics,Plasma Theory,theoretical
+1775,Rice University,Smalley-Curl Institute,Plasmonic Nanostructures,experimental
+1776,Rice University,Smalley-Curl Institute,Plasmonic Nanostructures,theoretical
+1777,Rice University,Smalley-Curl Institute,Polymer Photovoltaics,experimental
+1778,Rice University,Smalley-Curl Institute,Polymer Photovoltaics,theoretical
+1779,Boston University,Physics,Polymer Physics/Science,experimental
+1780,Case Western Reserve University,Physics,Polymer Physics/Science,experimental
+1781,Lehigh University,Physics,Polymer Physics/Science,experimental
+1782,Missouri University of Science & Technology,Physics,Polymer Physics/Science,experimental
+1783,North Dakota State University,Physics,Polymer Physics/Science,experimental
+1784,Oakland University,Physics,Polymer Physics/Science,experimental
+1785,"University of California, San Diego",Physics,Polymer Physics/Science,experimental
+1786,"University of California, Santa Barbara",Physics,Polymer Physics/Science,experimental
+1787,University of Michigan,Applied Physics,Polymer Physics/Science,experimental
+1788,Case Western Reserve University,Physics,Polymer Physics/Science,theoretical
+1789,Duke University,Physics,Polymer Physics/Science,theoretical
+1790,Harvard University,Physics,Polymer Physics/Science,theoretical
+1791,Missouri University of Science & Technology,Physics,Polymer Physics/Science,theoretical
+1792,San Diego State University,Physics,Polymer Physics/Science,theoretical
+1793,University of Connecticut,Physics,Polymer Physics/Science,theoretical
+1794,University of Michigan,Applied Physics,Polymer Physics/Science,theoretical
+1795,"University of Alabama, Tuscaloosa",Physics & Astronomy,Precision Timing,experimental
+1796,"University of Wisconsin, Madison",Physics,Quantum Computing,experimental
+1797,Creighton University,Physics,Quantum computing,theoretical
+1798,Kent State University,Department of Physics,Quantum Condensed Matter,experimental
+1799,Kent State University,Department of Physics,Quantum Condensed Matter,theoretical
+1800,Oklahoma State University,Physics,Quantum Foundations,experimental
+1801,University of Michigan,Applied Physics,Quantum Foundations,experimental
+1802,Carnegie Mellon University,Physics,Quantum Foundations,theoretical
+1803,Clemson University,Physics & Astronomy,Quantum Foundations,theoretical
+1804,Oklahoma State University,Physics,Quantum Foundations,theoretical
+1805,University of Central Florida,Physics,Quantum Foundations,theoretical
+1806,University of Michigan,Applied Physics,Quantum Foundations,theoretical
+1807,University of Southern California,Physics & Astronomy,Quantum Foundations,theoretical
+1808,University of Arizona,Optical Sciences,Quantum Information,experimental
+1809,"University of Tennessee, Knoxville",Physics & Astronomy,Quantum Information,experimental
+1810,Stanford University,Physics,Quantum Information,theoretical
+1811,University of Arizona,Optical Sciences,Quantum Information,theoretical
+1812,"University of Massachusetts, Lowell",Physics & Applied Physics,Quantum Information,theoretical
+1813,"University of Tennessee, Knoxville",Physics & Astronomy,Quantum Information,theoretical
+1814,Massachusetts Institute of Technology,Physics,Quantum Information and Quantum Computing,theoretical
+1815,Stevens Institute of Technology,Physics And Engineering Physics,Quantum Information and Quantum Optics,theoretical
+1816,Purdue Universty,Physics,Quantum Information Science,experimental
+1817,Duke University,Physics,Quantum Information Science,theoretical
+1818,Purdue Universty,Physics,Quantum Information Science,theoretical
+1819,Central Michigan University,Physics,Quantum Materials,experimental
+1820,Duke University,Physics,Quantum Materials,experimental
+1821,Stevens Institute of Technology,Physics And Engineering Physics,Quantum Optics,theoretical
+1822,Miami University,Physics,Quantum Optics & Quantum Information,experimental
+1823,Miami University,Physics,Quantum Optics & Quantum Information,theoretical
+1824,"University of Maryland, Baltimore County",Physics Graduate Program,Quantum Optics and Quantum Information,experimental
+1825,"University of Maryland, Baltimore County",Physics Graduate Program,Quantum Optics and Quantum Information,theoretical
+1826,University of Wisconsin,Medical Physics Program,Radiation and Thermal Therapy,experimental
+1827,University of Wisconsin,Medical Physics Program,Radiation and Thermal Therapy,theoretical
+1828,University of Wisconsin,Medical Physics Program,"Radiation Dosimetry, Radiation Protection",experimental
+1829,University of Wisconsin,Medical Physics Program,"Radiation Dosimetry, Radiation Protection",theoretical
+1830,Oklahoma State University,Physics,"Radiation Physics, Medical Physics, and Dosimetry",experimental
+1831,Central Michigan University,Physics,Rare isotope physics,experimental
+1832,Central Michigan University,Physics,Rare isotope physics,theoretical
+1833,University of Texas at Austin,Physics,Relativistic Heavy Ion Physics,experimental
+1834,"University of California, Riverside",Physics & Astronomy,Relativistic Heavy-ion Physics,experimental
+1835,Harvard University,Physics,Relativity & Gravitation,experimental
+1836,University of Florida,Physics,Relativity & Gravitation,experimental
+1837,University of Washington,Physics,Relativity & Gravitation,experimental
+1838,Washington University in St. Louis,Physics,Relativity & Gravitation,experimental
+1839,Case Western Reserve University,Physics,Relativity & Gravitation,theoretical
+1840,Harvard University,Physics,Relativity & Gravitation,theoretical
+1841,"Montana State University, Bozeman",Physics,Relativity & Gravitation,theoretical
+1842,Oakland University,Physics,Relativity & Gravitation,theoretical
+1843,Pennsylvania State University,Physics,Relativity & Gravitation,theoretical
+1844,Texas Tech University,Physics,Relativity & Gravitation,theoretical
+1845,"University of California, Santa Barbara",Physics,Relativity & Gravitation,theoretical
+1846,University of Chicago,Physics,Relativity & Gravitation,theoretical
+1847,University of Cincinnati,Physics,Relativity & Gravitation,theoretical
+1848,"University of Illinois, Urbana-Champaign",Physics,Relativity & Gravitation,theoretical
+1849,University of Iowa,Physics & Astronomy,Relativity & Gravitation,theoretical
+1850,"University of Maryland, College Park",Astronomy,Relativity & Gravitation,theoretical
+1851,"University of Massachusetts, Dartmouth",Physics,Relativity & Gravitation,theoretical
+1852,"University of Massachusetts, Lowell",Physics & Applied Physics,Relativity & Gravitation,theoretical
+1853,"University of Minnesota, Duluth",Physics,Relativity & Gravitation,theoretical
+1854,University of Mississippi,Physics & Astronomy,Relativity & Gravitation,theoretical
+1855,University of Texas at Austin,Physics,Relativity & Gravitation,theoretical
+1856,University of Utah,Physics,Relativity & Gravitation,theoretical
+1857,"University of Wisconsin, Milwaukee",Physics,Relativity & Gravitation,theoretical
+1858,Utah State University,Physics,Relativity & Gravitation,theoretical
+1859,Virginia Commonwealth University,Physics,Relativity & Gravitation,theoretical
+1860,Washington University in St. Louis,Physics,Relativity & Gravitation,theoretical
+1861,University of Arizona,Optical Sciences,Remote Sensing,experimental
+1862,University of Arizona,Optical Sciences,Remote Sensing,theoretical
+1863,"University of Maryland, Baltimore County",Atmospheric Physics Graduate Program,Remote Sensing,theoretical
+1864,"University of Maryland, Baltimore County",Atmospheric Physics Graduate Program,Remote Sensing Instrumentation,experimental
+1865,Colorado School of Mines,Physics,Renewable Energy,experimental
+1866,Appalachian State University,Physics and Astronomy,Robotics and Electronics,experimental
+1867,"University of California, Santa Cruz",Physics,Santa Cruz Institute for Particle Physics (SCIPP),experimental
+1868,"University of California, Santa Cruz",Physics,Santa Cruz Institute for Particle Physics (SCIPP),theoretical
+1869,University of Houston,Physics,"Scattering: X-ray , Neutron, Light",experimental
+1870,University of Houston,Physics,"Scattering: X-ray , Neutron, Light",theoretical
+1871,University of Houston,Physics,Seismic Physics,theoretical
+1872,Stevens Institute of Technology,Physics And Engineering Physics,Semiconductor Solid State Theory,theoretical
+1873,University of Houston,Physics,Signal & Image Processing,experimental
+1874,University of Houston,Physics,Signal & Image Processing,theoretical
+1875,North Dakota State University,Physics,Single-Molecule Electronics and Science,experimental
+1876,North Dakota State University,Physics,Soft Colloids and Biomembranes,theoretical
+1877,Kent State University,Department of Physics,Soft Condensed Matter,experimental
+1878,Kent State University,Department of Physics,Soft Condensed Matter,theoretical
+1879,"University of Massachusetts, Lowell",Physics & Applied Physics,Soft Condensed Matter,theoretical
+1880,Kansas State University,Physics,Soft Condensed Matter and Biological Physics,experimental
+1881,Kansas State University,Physics,Soft Condensed Matter and Biological Physics,theoretical
+1882,"University of Massachusetts, Amherst",Physics,Soft Condensed Matter Physics,experimental
+1883,Georgetown University,Physics,Soft condensed-matter physics,experimental
+1884,Georgetown University,Physics,Soft condensed-matter physics,theoretical
+1885,Georgia Institute of Technology,Physics,Soft Matter,experimental
+1886,University of California Merced,Physics,Soft Matter,experimental
+1887,Georgia Institute of Technology,Physics,Soft Matter,theoretical
+1888,University of California Merced,Physics,Soft Matter,theoretical
+1889,Emory University,Physics,Soft Matter Physics,experimental
+1890,North Dakota State University,Physics,Soft Matter Physics,theoretical
+1891,University of Arizona,Optical Sciences,Solar,experimental
+1892,University of Arizona,Optical Sciences,Solar,theoretical
+1893,University of Houston,Physics,Solar (Renewable) Energy,experimental
+1894,University of Houston,Physics,Solar (Renewable) Energy,theoretical
+1895,University of California Merced,Physics,Solar and Energy Sciences,experimental
+1896,"California State University, Long Beach",Physics & Astronomy,Solar Physics,experimental
+1897,Georgia State University,Physics & Astronomy,Solar Physics,experimental
+1898,"Montana State University, Bozeman",Physics,Solar Physics,experimental
+1899,New Jersey Institute of Technology,Physics,Solar Physics,experimental
+1900,New Mexico State University,Astronomy,Solar Physics,experimental
+1901,University of Alabama at Birmingham,Physics,Solar Physics,experimental
+1902,Georgia State University,Physics & Astronomy,Solar Physics,theoretical
+1903,New Mexico State University,Astronomy,Solar Physics,theoretical
+1904,Bowling Green State University,Physics & Astronomy,Solid State Physics,experimental
+1905,Columbia University,Department of Applied Physics and Applied Mathematics,Solid State Physics,experimental
+1906,New Jersey Institute of Technology,Physics,Solid State Physics,experimental
+1907,New Mexico State University,Physics,Solid State Physics,experimental
+1908,Oakland University,Physics,Solid State Physics,experimental
+1909,University of Michigan,Applied Physics,Solid State Physics,experimental
+1910,University of Oregon,Physics,Solid State Physics,experimental
+1911,"California State University, Long Beach",Physics & Astronomy,Solid State Physics,theoretical
+1912,University of Michigan,Applied Physics,Solid State Physics,theoretical
+1913,University of Oregon,Physics,Solid State Physics,theoretical
+1914,Virginia Commonwealth University,Physics,Solid State Physics,theoretical
+1915,University of Alaska Fairbanks,Physics,Space physics,experimental
+1916,"University of Texas, Arlington",Physics,Space Physics,experimental
+1917,University of Alaska Fairbanks,Physics,Space Physics,theoretical
+1918,"University of Texas, Arlington",Physics,Space Physics,theoretical
+1919,University of Houston,Physics,Space Physics and High Altitude Balloon,experimental
+1920,University of New Hampshire,Physics,Space Plasma,experimental
+1921,University of New Hampshire,Physics,Space Plasma Theory,theoretical
+1922,University of New Hampshire,Physics,Space Radiation,experimental
+1923,University of Houston,Physics,Space Radiation Physics,experimental
+1924,University of Houston,Physics,Space Radiation Physics,theoretical
+1925,University of Houston,Physics,Statistical & Non-linear Physics & Complexity,experimental
+1926,University of Houston,Physics,Statistical & Non-linear Physics & Complexity,theoretical
+1927,Cornell University,Physics,Statistical & Thermal Physics,experimental
+1928,Harvard University,Physics,Statistical & Thermal Physics,experimental
+1929,Lehigh University,Physics,Statistical & Thermal Physics,experimental
+1930,Missouri University of Science & Technology,Physics,Statistical & Thermal Physics,experimental
+1931,"State University of New York (SUNY), Univ. at Buffalo",Physics,Statistical & Thermal Physics,experimental
+1932,"University of California, Santa Barbara",Physics,Statistical & Thermal Physics,experimental
+1933,University of Michigan,Applied Physics,Statistical & Thermal Physics,experimental
+1934,Boston University,Physics,Statistical & Thermal Physics,theoretical
+1935,Case Western Reserve University,Physics,Statistical & Thermal Physics,theoretical
+1936,Clark University,Physics,Statistical & Thermal Physics,theoretical
+1937,Clarkson University,Physics,Statistical & Thermal Physics,theoretical
+1938,Columbia University,Physics,Statistical & Thermal Physics,theoretical
+1939,Cornell University,Physics,Statistical & Thermal Physics,theoretical
+1940,Emory University,Physics,Statistical & Thermal Physics,theoretical
+1941,Florida Atlantic University,Physics,Statistical & Thermal Physics,theoretical
+1942,Georgetown University,Physics,Statistical & Thermal Physics,theoretical
+1943,Harvard University,Physics,Statistical & Thermal Physics,theoretical
+1944,Lehigh University,Physics,Statistical & Thermal Physics,theoretical
+1945,Oakland University,Physics,Statistical & Thermal Physics,theoretical
+1946,Oklahoma State University,Physics,Statistical & Thermal Physics,theoretical
+1947,"State University of New York (SUNY), Univ. at Buffalo",Physics,Statistical & Thermal Physics,theoretical
+1948,Texas Christian University,Physics and Astronomy,Statistical & Thermal Physics,theoretical
+1949,"University of California, San Diego",Physics,Statistical & Thermal Physics,theoretical
+1950,University of Michigan,Applied Physics,Statistical & Thermal Physics,theoretical
+1951,University of Notre Dame,Physics,Statistical & Thermal Physics,theoretical
+1952,University of Oregon,Physics,Statistical & Thermal Physics,theoretical
+1953,University of South Florida,Physics,Statistical & Thermal Physics,theoretical
+1954,University of Texas at Austin,Physics,Statistical & Thermal Physics,theoretical
+1955,Virginia Commonwealth University,Physics,Statistical & Thermal Physics,theoretical
+1956,West Virginia University,Physics,Statistical & Thermal Physics,theoretical
+1957,Duke University,Physics,Statistical and nonlinear physics,theoretical
+1958,"State University of New York (SUNY), Stony Brook",Physics & Astronomy,Statistical Mechanics,theoretical
+1959,Southern Methodist University,Physics,Stellar Astrophysics and Cosmic History,experimental
+1960,Rensselaer Polytechnic Institute,"Physics, Applied Physics, Astronomy",Stochastic Dynamics on Complex Networks,theoretical
+1961,"State University of New York (SUNY), Stony Brook",Physics & Astronomy,String Theory and Cosmology,theoretical
+1962,Colorado School of Mines,Physics,Sub-Atomic Physics,experimental
+1963,University of Houston,Physics,Superconductivity,experimental
+1964,University of Houston,Physics,Superconductivity,theoretical
+1965,Rice University,Smalley-Curl Institute,Superresolution Microscopy,experimental
+1966,Rice University,Smalley-Curl Institute,Superresolution Microscopy,theoretical
+1967,Boston University,Physics,Surface Physics,experimental
+1968,Case Western Reserve University,Physics,Surface Physics,experimental
+1969,Clarkson University,Physics,Surface Physics,experimental
+1970,Eastern Michigan University,Physics and Astronomy,Surface Physics,experimental
+1971,Seton Hall University,Physics,Surface Physics,experimental
+1972,"University of California, Riverside",Physics & Astronomy,Surface Physics,experimental
+1973,University of Houston,Physics,Surface Physics,experimental
+1974,University of Michigan,Applied Physics,Surface Physics,experimental
+1975,"University of Texas, Arlington",Physics,Surface Physics,experimental
+1976,"University of Wisconsin, Milwaukee",Physics,Surface Physics,experimental
+1977,University of Michigan,Applied Physics,Surface Physics,theoretical
+1978,"University of Texas, Arlington",Physics,Surface Physics,theoretical
+1979,"University of Wisconsin, Milwaukee",Physics,Surface Physics,theoretical
+1980,Virginia Commonwealth University,Physics,Surface Physics,theoretical
+1981,University of Michigan,Applied Physics,Systems Science/Engineering,experimental
+1982,University of Michigan,Applied Physics,Systems Science/Engineering,theoretical
+1983,Rice University,Smalley-Curl Institute,Terahertz Spectroscopy,experimental
+1984,Rice University,Smalley-Curl Institute,Terahertz Spectroscopy,theoretical
+1985,University of Texas at Austin,Physics,The Weinberg Theory Group,theoretical
+1986,"North Carolina State University, Raleigh",Physics,Theoretical and Computational Astrophysics,theoretical
+1987,"Indiana University, Bloomington",Astronomy,Theoretical Astrophysics,theoretical
+1988,"University of California, Berkeley",Physics,Theoretical Astrophysics,theoretical
+1989,University of Kentucky,Physics & Astronomy,Theoretical Astrophysics,theoretical
+1990,Stanford University,Physics,Theoretical Astrophysics and Cosmology,theoretical
+1991,University of Kentucky,Physics & Astronomy,Theoretical Atomic Physics,theoretical
+1992,Florida International University,Physics,Theoretical Biophysics,theoretical
+1993,Stanford University,Physics,Theoretical Condensed Matter,theoretical
+1994,Colorado State University,Physics,Theoretical Condensed Matter Physics,theoretical
+1995,University of Kentucky,Physics & Astronomy,Theoretical Condensed Matter Physics,theoretical
+1996,Southern Methodist University,Physics,Theoretical Cosmology,theoretical
+1997,Duke University,Physics,Theoretical Neuroscience,theoretical
+1998,Duke University,Physics,Theoretical Nuclear and Particle Physics,theoretical
+1999,Florida International University,Physics,Theoretical nuclear and particle physics,theoretical
+2000,Old Dominion University,Physics,Theoretical Nuclear and Particle Physics,theoretical
+2001,University of Kentucky,Physics & Astronomy,Theoretical Nuclear Physics,theoretical
+2002,"University of Massachusetts, Amherst",Physics,Theoretical Nuclear Physics,theoretical
+2003,"North Carolina State University, Raleigh",Physics,Theoretical Particle and Nuclear Physics,theoretical
+2004,Southern Methodist University,Physics,Theoretical Particle Physics,theoretical
+2005,Stanford University,Physics,Theoretical Particle Physics,theoretical
+2006,"State University of New York (SUNY), Stony Brook",Physics & Astronomy,Theoretical Particle Physics,theoretical
+2007,University of Kentucky,Physics & Astronomy,Theoretical Particle Physics,theoretical
+2008,Fudan University,Physics,Theoretical Physics,theoretical
+2009,New Mexico Institute of Mining and Technology,Physics,Theoretical Physics,theoretical
+2010,Oregon State University,Physics,Theoretical Physics,theoretical
+2011,San Diego State University,Physics,Theoretical Physics,theoretical
+2012,"State University of New York (SUNY), Stony Brook",Physics & Astronomy,Theoretical Physics,theoretical
+2013,University of Michigan,Applied Physics,Theoretical Physics,theoretical
+2014,University of South Carolina,Physics & Astronomy,Theoretical Physics,theoretical
+2015,Virginia Commonwealth University,Physics,Theoretical Physics,theoretical
+2016,Washington University in St. Louis,Physics,Theoretical Physics,theoretical
+2017,East Carolina University,Physics,Theoretical Radiation Physics,theoretical
+2018,University of Maine,Physics and Astronomy,Thin Film and Sensor Technology,experimental
+2019,Seton Hall University,Physics,"thin films, laser deposition, x-ray diffraction, x-ray sepctrescopy",experimental
+2020,Rice University,Smalley-Curl Institute,Topological Insulators,experimental
+2021,Rice University,Smalley-Curl Institute,Topological Insulators,theoretical
+2022,Rice University,Smalley-Curl Institute,Translational Medical Devices,experimental
+2023,Rice University,Smalley-Curl Institute,Translational Medical Devices,theoretical
+2024,Rice University,Smalley-Curl Institute,Ultracold Atoms and Plasmas,experimental
+2025,Rice University,Smalley-Curl Institute,Ultracold Atoms and Plasmas,theoretical
+2026,University of Wisconsin,Medical Physics Program,Ultrasound Imaging,experimental
+2027,University of Wisconsin,Medical Physics Program,Ultrasound Imaging,theoretical

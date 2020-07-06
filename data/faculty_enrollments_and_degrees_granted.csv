@@ -1,0 +1,177 @@
+,School name,Department,Faculty,Enrollment Master's,Enrollment Doctorate,Number of degrees granted Master's,Number of degrees granted Terminal Master's,Number of degrees granted Doctorate,Degrees granted in past years Past years,Degrees granted in past years Master's,Degrees granted in past years Terminal Master's,Degrees granted in past years Doctorate
+0,University of Michigan,Applied Physics,163,4,80,,,14,,,,
+1,"University of Nebraska, Lincoln",Nebraska Center for Materials & Nanoscience,109,85,172,,,,,,,
+2,Fudan University,Physics,108,,,,,,2017-62,,,
+3,Massachusetts Institute of Technology,Physics,78,2,257,1,1,47,2015-19,3,9,188
+4,Stanford University,Physics,73,,,2,2,25,2017-2018,4,2,22
+5,"Rutgers University, New Brunswick",Physics & Astronomy,71,4,114,,2,16,,,,
+6,University of Rochester,Physics & Astronomy,69,,113,20,,12,2006-19,192,5,161
+7,"State University of New York (SUNY), Stony Brook",Physics & Astronomy,68,73,162,11,11,20,2014-19,,60,103
+8,Montana Tech,Geosciences & Engineering,67,84,17,38,,,,,,
+9,Duke University,Physics,67,,76,,1,17,2014–18,,5,59
+10,Harvard University,Physics,66,,244,16,2,33,,,,
+11,Arizona State University,Physics & Astronomy,64,15,92,5,12,13,,,,
+12,"University of California, Berkeley",Physics,64,,297,24,,25,2014–19,120,,153
+13,Ohio State University,Physics,62,,207,32,2,31,2013-2018,,,170
+14,University of Minnesota,Physics,60,4,,9,,16,2014-2019,28,28,122
+15,University of Notre Dame,Physics,59,,107,,1,12,2013-18,,18,70
+16,Purdue Universty,Physics,57,,148,6,7,22,2014-19,28,22,90
+17,"University of California, Santa Barbara",Physics,57,,143,24,2,38,2014-19,95,7,113
+18,University of Southern California,Physics & Astronomy,57,,83,,2,12,2014-19,5,13,39
+19,University of Chicago,Physics,55,,149,18,1,13,2008-2018,118,5,145
+20,University of Virginia,Physics,53,3,102,,8,8,2014–19,5,32,62
+21,University of Utah,Physics,52,1,69,2,4,11,2003-10,69,,46
+22,University of Central Florida,Physics,50,8,89,9,,12,2014-19,49,,77
+23,University of Texas at Austin,Physics,49,51,149,2,4,30,2014-18,6,11,129
+24,"North Carolina State University, Raleigh",Physics,49,3,128,9,,13,2014-19,35,11,57
+25,Cornell University,Physics,49,,177,20,,24,2014-19,120,7,112
+26,"University of California, Irvine",Physics,49,,155,18,,19,2014-2019,73,22,102
+27,University of Florida,Physics,49,,117,13,1,14,2010-19,102,,169
+28,Pennsylvania State University,Physics,49,,113,,1,16,2011-17,,19,120
+29,George Mason University,Physical Sciences,48,16,50,6,,4,2013-18,38,,25
+30,Florida State University,Physics,48,8,143,26,,22,2013-18,154,,146
+31,University of New Hampshire,Physics,48,3,67,,1,10,2014-19,,10,31
+32,Princeton University,Physics,48,,124,,,,,,,23
+33,Rice University,Physics & Astronomy,46,,89,17,2,15,2014-19,87,12,77
+34,Montana Tech of the University of Montana,Materials Science PhD Program,45,,26,,,,2014-19,,,
+35,"University of Wisconsin, Madison",Physics,45,,,,,,,,,
+36,"University of California, Riverside",Physics & Astronomy,44,,110,19,6,13,2010-18,148,26,139
+37,Northeastern University,Physics,43,8,87,3,2,10,2013–18,20,14,42
+38,Boston University,Physics,43,,81,5,,14,2014-19,41,13,69
+39,Georgia Institute of Technology,Physics,42,,131,,2,19,2014-19,2,18,88
+40,University of Pittsburgh,Physics & Astronomy,42,,113,,,20,2014-18,49,,93
+41,Northwestern University,Physics & Astronomy,41,,105,8,,12,,,,
+42,University of Oregon,Physics,40,34,89,4,17,12,,,,
+43,University of Delaware,Physics & Astronomy,40,4,62,8,,23,2017-2019,23,,53
+44,"University of Massachusetts, Amherst",Physics,39,6,86,13,1,10,2014-19,22,6,57
+45,University of Arizona,Optical Sciences,38,162,146,40,40,9,2014-19,217,217,132
+46,"Indiana University, Bloomington",Physics,38,16,86,8,2,12,2014-19,52,15,54
+47,University of Central Florida,"CREOL, The College of Optics & Photonics",36,35,116,7,12,15,181,46,55,80
+48,Columbia University,Physics,36,,99,24,1,12,2009–19,201,11,147
+49,Iowa State University,Physics and Astronomy,36,,89,3,3,27,2013–18,10,5,65
+50,Virginia Tech,Physics,34,3,75,,2,15,2008-19,45,28,99
+51,University of Connecticut,Physics,33,4,79,2,6,11,2015-19,8,23,47
+52,"University of Tennessee, Knoxville",Physics & Astronomy,33,,,3,6,12,2016-2017,2,3,9
+53,University of Arizona,Physics,32,6,107,7,4,5,2014-2019,,,
+54,University of Kentucky,Physics & Astronomy,31,5,85,26,8,39,2008-13,33,18,31
+55,University of Iowa,Physics & Astronomy,31,3,63,1,3,18,2013-18,5,11,56
+56,University of South Florida,Physics,31,3,61,6,1,6,2012-18,13,15,51
+57,"Montana State University, Bozeman",Physics,30,4,73,7,1,6,2014-19,34,18,27
+58,Kent State University,Department of Physics,30,4,66,1,3,11,2014-2019,15,22,35
+59,University of Wisconsin,Medical Physics Program,29,2,73,10,,17,2014-2019,110,22,111
+60,"University of Alabama, Tuscaloosa",Physics & Astronomy,29,2,59,,3,8,2013-18,37,13,31
+61,Clemson University,Physics & Astronomy,29,1,71,3,1,9,2014-18,32,25,30
+62,College of William and Mary,Physics,29,,63,13,4,16,2013-18,61,9,47
+63,Kansas State University,Physics,28,5,60,2,2,7,2014-19,5,14,29
+64,"University of Texas, Arlington",Physics,28,1,47,,,4,2014–19,2,8,26
+65,West Virginia University,Physics,28,,85,10,2,8,2008-17,85,7,88
+66,University of Chicago,Astronomy & Astrophysics,28,,,,,2,2014-2019,,,31
+67,Vanderbilt University,Physics & Astronomy,27,8,63,5,,9,2010-19,59,,100
+68,Wayne State University,Physics and Astronomy,27,3,52,5,1,13,2014-19,102,37,83
+69,Ohio University,Physics and Astronomy,27,2,73,9,1,15,2014-19,54,6,58
+70,Brown University,Physics,26,51,83,36,25,13,2014-2018,110,50,67
+71,Virginia Commonwealth University,Physics,26,11,16,9,,2,2014-19,27,,18
+72,"University of Missouri, Columbia",Physics & Astronomy,26,3,54,6,2,14,2013-18,25,11,52
+73,University of Oklahoma,Physics & Astronomy,26,2,87,20,2,10,2012–18,73,13,59
+74,"University of Nebraska, Lincoln",Physics & Astronomy,26,,95,11,2,14,2010-18,56,5,63
+75,University of South Carolina,Physics & Astronomy,26,,37,,1,6,2014-19,1,3,23
+76,University of Kansas,Physics & Astronomy,26,,,,,5,2014-19,19,,32
+77,"University of Illinois, Chicago",Physics,25,6,83,4,5,10,2012-18,41,20,49
+78,Florida International University,Physics,25,,43,,,5,2001-18,,32,53
+79,George Washington University,Physics,25,,34,,,6,2008-15,2,4,9
+80,"Texas State University, San Marcos",Physics,24,30,,,7,,2014-19,,33,
+81,"University of Massachusetts, Lowell",Physics & Applied Physics,24,15,54,6,5,11,2014-19,91,64,45
+82,Colorado School of Mines,Physics,24,9,13,,12,14,2015-19,,37,41
+83,University of Cincinnati,Physics,24,6,45,,6,7,2014-19,29,13,59
+84,Rensselaer Polytechnic Institute,"Physics, Applied Physics, Astronomy",24,5,34,1,6,6,2013-2018,9,48,42
+85,"University of California, Santa Cruz",Physics,24,,70,,,,2013-18,,,
+86,Case Western Reserve University,Physics,23,3,40,,4,10,2014-2019,2,15,25
+87,Georgia State University,Physics & Astronomy,23,,68,,,,,,,
+88,Emory University,Physics,23,,53,,2,5,2014-19,,4,21
+89,Old Dominion University,Physics,23,,44,,,4,2014-2019,32,9,29
+90,Washington University in St. Louis,Physics,23,,,,,19,2014-19,,2,70
+91,"State University of New York (SUNY), Univ. at Buffalo",Physics,22,8,85,9,,16,2014–19,35,,56
+92,Texas Tech University,Physics,22,8,48,1,,5,2018-2019,,,
+93,"University of Maryland, Baltimore County",Physics Graduate Program,22,,33,7,1,3,2014-2019,18,8,21
+94,Colorado State University,Physics,21,,68,11,1,5,2014-2019,31,7,27
+95,Auburn University,Physics,21,,,,,1,2014-19,40,19,28
+96,Utah State University,Physics,20,4,26,3,,4,2012–17,9,,15
+97,New Jersey Institute of Technology,Physics,19,13,19,6,,3,2011-16,30,,25
+98,Northern Illinois University,Physics,19,10,41,3,,5,2013-19,46,30,34
+99,Michigan Technological University,Physics,19,10,35,,5,9,2014–18,2,10,16
+100,"University of Nevada, Las Vegas",Physics,19,8,19,5,1,1,2014-19,12,2,16
+101,Oregon State University,Physics,19,2,44,6,3,6,2015-2019,11,4,25
+102,Oklahoma State University,Physics,19,2,37,,,6,2014-19,15,,32
+103,New Mexico Institute of Mining and Technology,Physics,19,1,17,1,2,4,2007-18,21,10,11
+104,"University of Wisconsin, Milwaukee",Physics,19,,33,,3,8,2014-19,1,8,24
+105,Missouri University of Science & Technology,Physics,19,,29,1,,8,2014-2019,11,13,21
+106,"University of Nevada, Reno",Physics,19,,,,,,,,,
+107,East Carolina University,Physics,18,19,26,1,8,3,2013-18,10,26,11
+108,"University of Maryland, College Park",Astronomy,18,,39,6,,3,2013–19,34,3,33
+109,Southern Methodist University,Physics,18,,18,3,,3,2015-2018,7,3,10
+110,Lehigh University,Physics,17,2,39,7,2,5,2014–19,27,9,29
+111,Boston College,Physics,17,,43,3,,7,,,,
+112,Georgetown University,Physics,17,,30,11,1,3,2011–19,28,6,28
+113,"State University of New York (SUNY), Albany",Physics,16,14,38,4,1,5,2018-19,13,8,39
+114,Illinois Institute of Technology,Physics,16,12,30,14,,4,2012–19,77,,29
+115,University of Mississippi,Physics & Astronomy,16,9,34,3,8,10,2014-19,4,14,10
+116,Western Michigan University,Physics,16,6,25,4,3,4,2014-2019,7,14,11
+117,Drexel University,Physics,16,1,42,6,,5,2014–19,30,4,24
+118,University of Wyoming,Physics & Astronomy,16,1,37,6,2,3,2014-19,27,17,15
+119,University of California Merced,Physics,16,,46,,1,10,2007-19,6,,34
+120,Wake Forest University,Physics,15,4,26,,2,1,2014-19,,6,33
+121,Clarkson University,Physics,15,4,12,6,6,1,2013-2017,9,9,5
+122,Oakland University,Physics,15,3,13,,2,1,2013–18,,6,10
+123,Baylor University,Physics,15,,45,4,,17,2008-19,19,,39
+124,"State University of New York (SUNY), Binghamton","Physics, Applied Physics & Astronomy",15,,43,,,,2004–10,16,,
+125,"California State University, Long Beach",Physics & Astronomy,14,63,,20,,,,,,
+126,Florida Atlantic University,Physics,14,27,28,1,1,3,,,,
+127,Miami University,Physics,14,20,,,10,,2015–19,,53,
+128,"University of Minnesota, Duluth",Physics,14,18,,11,,,2010-16,33,,
+129,Bowling Green State University,Physics & Astronomy,14,14,13,,6,3,2014-19,,42,7
+130,New Mexico State University,Physics,14,4,33,5,4,6,2013-18,12,12,24
+131,Indiana University - Purdue University Indianapolis,Physics,14,2,22,1,,2,,,,
+132,University of Vermont,Physics,14,2,13,1,,,2007-17,6,23,14
+133,University of Denver,Physics,14,,22,,3,3,2014-19,,3,8
+134,San Francisco State University,Physics & Astronomy,13,48,,,18,,2014–19,,53,
+135,Eastern Michigan University,Physics and Astronomy,13,27,,11,,,2013–18,54,,
+136,University of Maine,Physics and Astronomy,13,7,24,1,3,3,2014-2019,3,24,15
+137,University of Alabama at Birmingham,Physics,13,,32,5,1,2,2013-18,16,2,15
+138,Northern Arizona University,Physics,13,,27,,,,2014-2019,,,
+139,San Diego State University,Physics,12,29,,,14,,2012-17,,,
+140,Central Michigan University,Physics,12,10,11,10,3,,,,,
+141,Stevens Institute of Technology,Physics And Engineering Physics,12,,23,10,,3,2014-19,20,19,63
+142,Creighton University,Physics,11,17,,5,5,,2014-19,21,21,
+143,University of Dayton,Electro-Optics Program,10,23,35,10,,3,2017-18,,,
+144,"University of Massachusetts, Dartmouth",Physics,10,13,4,,5,,,,,
+145,Alabama A&M University,Physics,10,8,13,4,,3,2013-18,10,,9
+146,University of Alaska Fairbanks,Physics,10,5,18,,1,2,2013-18,,9,12
+147,North Dakota State University,Physics,10,5,13,4,3,2,2014-2019,12,4,7
+148,"Indiana University, Bloomington",Astronomy,10,,18,2,,2,2013-18,11,4,15
+149,Southern Connecticut State University,Physics,9,12,,,3,,2014-19,,22,
+150,Clark University,Physics,9,1,10,,1,,2014-2019,1,1,5
+151,New Mexico State University,Astronomy,8,29,29,2,,2,2014-19,,,22
+152,"University of Colorado, Colorado Springs",Physics,8,2,38,1,,2,2013-18,11,,8
+153,Texas Christian University,Physics and Astronomy,8,2,15,4,3,3,2014-2019,14,3,11
+154,DePaul University,Physics,7,8,,,3,,,,21,
+155,"University of Maryland, Baltimore County",Atmospheric Physics Graduate Program,5,,16,2,2,2,2013-18),10,9,8
+156,Bryn Mawr College,Physics,5,,7,,,1,2013-18,1,1,4
+157,Columbia University,Department of Applied Physics and Applied Mathematics,,161,,,,,2014-19,,,
+158,University of Washington,Physics,,42,159,22,6,23,,,,
+159,San Jose State University,Physics,,23,,,11,,2000–07,,36,
+160,Portland State University,Physics,,12,31,7,1,5,2013-18,27,16,20
+161,University of Pennsylvania,Physics,,8,105,,,,2014-2019,,,
+162,Seton Hall University,Physics,,8,,,,,,,,
+163,"University of Colorado, Boulder",Physics,,,301,35,2,27,2014-19,136,7,156
+164,"University of California, San Diego",Physics,,,175,,1,23,2011-18,,19,154
+165,University of Houston,Physics,,,104,13,1,16,,,,
+166,Carnegie Mellon University,Physics,,,78,4,,7,2010–19,89,,94
+167,"University of North Carolina, Chapel Hill",Physics & Astronomy,,,77,,1,11,2014-2019,,,71
+168,Appalachian State University,Physics and Astronomy,,,,13,,,2015-2018,79,,
+169,Kent State University,Chemical Physics,,,,,,,2014-2019,,,
+170,Rice University,Smalley-Curl Institute,,,,,,,,,,
+171,The Graduate Center - The City University of New York,Ph.D. Program in Physics,,,,,,100,2008-13,,,69
+172,The University of North Carolina at Charlotte,Physics and Optical Science,,,,,,,,,,
+173,"University of Illinois, Urbana-Champaign",Physics,,,,,,,,,,
+174,University of South Dakota,Physics,,,,3,,1,,,,
+175,Wesleyan University,Physics,,,,,,,,,,

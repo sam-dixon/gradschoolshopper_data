@@ -1,0 +1,7 @@
+name: gss_data
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - bs4
+  - requests
